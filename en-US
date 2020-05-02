@@ -1,10 +1,18 @@
 /*
  Weather Line Strings
  en-US
+ 
+//
+// Instructions
+//
 
- • For translations, left side stays as English (don't change), and the right side is the translated string. So "Settings" = "Localized Settings";
- • They are some cases of (parenthetical) elements that aren't meant to be translated, and some that are. Noted where needed
- • There are some strings with new lines (looks like "\n") included - there's no need to translate those new line characters, but translate the rest
+1. This file is formatted as "Text" = "Translated Text". Text left of the equal sign should remain in English. Text right of the equal sign should be translated. Ex. "Translated Text"
+2. Do not translate text after double slashes. Ex. //
+3. Do not translate text in paranthesis. Ex. (Text)
+3. Leave "\n" as "\n"
+4. Make a best effort to use the same number of characters as the english version or fewer.
+5. Leave your email address in the Commit Change description and we will get in touch with free access to Weather Line Supercharge.
+
 */
 
 //
