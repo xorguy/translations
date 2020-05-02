@@ -1,6 +1,6 @@
 # Translations
 
-This repository is for localizing the text necessary to offer Weather Line in more local languages around the world. Contribrutors are users volunteering to help in exchange for free lifetime access to Weather Line forever! Contact us via Support in the app if you would like to help.
+This repository is for localizing the text necessary to offer Weather Line in more local languages around the world. Contributors are app users that translate in exchange for lifetime access to Weather Line. Contact us at team@weatherlineapp.com if you would like to contribute.
 
 # Status
 
