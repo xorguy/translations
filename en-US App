@@ -1,23 +1,20 @@
 /*
- Weather Line Text Strings
+ Weather Line Strings
  en-US
- 
-//
-// Instructions
-//
 
-1. This file is formatted as "Text" = "Translated Text". Text left of the equal sign should remain in English. Text right of the equal sign should be translated. Ex. "Translated Text"
-2. Do not translate text after double slashes. Ex. //
-3. Do not translate text in paranthesis. Ex. (Text)
-3. Leave "\n" as "\n"
-4. Make a best effort to use the same number of characters as the english version or fewer.
-5. Leave your email address in the Commit Change description and we will get in touch with free access to Weather Line Supercharge.
+ // Instructions
+
+ 1. Create a new file named "language App" where language is the language localization you're translating to (https://en.wikipedia.org/wiki/Language_localisation). Ex. for standard French "fr-FR App"
+ 2. This file is formatted as "Text" = "Translated Text". Text left of the equal sign should remain in English. Text right of the equal sign should be translated. Ex. "Text" = "texte traduit";
+ 3. Do not translate text after double slashes. These are just code comments. Ex. // General - App
+ 4. Do not translate text in parentheses, except as noted. Ex. (Text)
+ 5. Leave "\n" as "\n"
+ 6. Make a best effort to use the same number of characters as the English version or fewer.
+ 7. Open a pull request with your translated changes, adding your email address in the PR description, and we'll get in touch with free access to Weather Line Supercharge.
 
 */
 
-//
 // General - App
-//
 
 "WeatherLine" = "Weather Line";
 "Settings" = "Settings";
@@ -29,6 +26,7 @@
 "None" = "None";
 "Reset" = "Reset";
 "Skip" = "Skip";
+"By" = "By";
 "Of" = "Of"; // as in 1 of 3 pages
 
 "Report a Bug" = "Report a Bug";
@@ -50,31 +48,7 @@
 "What's New in Weather Line" = "What's New\nin Weather Line";
 "What's New" = "What's New";
 
-
-//
-// General - App Store
-//
-
-"Award-winning weather forecast" = "Award-winning weather forecast"
-"Description" = XXXXXXXX
-"APPS WE LOVE - App Store" = "APPS WE LOVE - App Store
-"#1 Weather app in 55 countries" = "#1 Weather app in 55 countries"
-"Industry First Super Forecast" = "Industry First Super Forecast"
-"Visual - 10 locations, 10 day forecast" = "Visual - 10 locations, 10 day forecast"
-"Intuitive - Visual forecasts" = "Intuitive - Visual forecasts"
-"Accurate - Super Forecast" = "Accurate - Super Forecast"
-"Themes - iOS 13 Dark mode + 16 more" = "Themes - iOS 13 Dark mode + 16 more"
-"Storms - Radar + Dark Sky" = "Storms - Radar + Dark Sky"
-"Detailed - 72 hours, 10 data points" = "Detailed - 72 hours, 10 data points"
-"Smart - Travel Assist for home weather" = "Smart - Travel Assist for home weather"
-"Plan - with historical averages" = "Plan - with historical averages"
-"Warning - send to family" = "Warning - send to family"
-"live, weather, map, forecast, radar, local, alert, rain, fall, winter, storm, check, track, tracker, hurricane" = "live, weather, map, forecast, radar, local, alert, rain, fall, winter, storm, check, track, tracker, hurricane"
-
-
-//
 // General - Time-based
-//
 
 "Hours" = "Hours";
 "Hour" = "Hour";
@@ -90,18 +64,14 @@
 
 "AddMyLocation" = "Add My Location";
 
-//
 // Toasts - Forecast Refreshing
-//
 
 "Updating" = "Updating...";
 "LastUpdated" = "Last updated";
 "Offline" = "Offline";
 "Unknown" = "Unknown";
 
-//
 // Settings
-//
 
 "UpgradeToSuperchargeTitle" = "Upgrade to Supercharge";
 "EmptyLocationList-Header" = "No Locations";
@@ -130,17 +100,13 @@
 "Acknowledgments" = "Acknowledgments";
 "ShowWalkthrough" = "Show App Walkthrough";
 
-//
 // Settings section headers
-//
 
 "Locations" = "Locations";
 "Appearance" = "Appearance";
 "Other" = "Other";
 
-//
 // Settings subpages
-//
 
 "Open-Source Components" = "Open-Source Components";
 
@@ -178,10 +144,20 @@
 "Top Location, Daily Graph" = "Top Location, Daily Graph";
 
 "Auto Match to Theme" = "Auto Match to Theme";
+"Update Theme Settings" = "Update Theme Settings";
+"Open Theme Settings" = "Open Theme Settings";
 
-//
+"To enable automatically matching your app icon to the theme, first disable (ALERT) in theme settings." =  "To enable automatically matching your app icon to the theme, first disable (ALERT) in theme settings."; // WL-Insert
+
+"Play Animation" = "Play Animation";
+"Map Style" = "Map Style";
+"Show Map Pin" = "Show Map Pin";
+"Animation Preview" = "Animation Preview";
+"Preview" = "Preview";
+
+"Show Moon Phases" = "Show Moon Phases";
+
 // Search for Location
-//
 
 "CurrentLocation" = "Current Location";
 "AddLocationSearchBarPlaceholder" = "Search";
@@ -194,9 +170,7 @@
 "AddLocationSearchMessage" = "Enter street address, city, zip code, or airport.";
 "AddLocationListLocationMessage" = "Where on your saved list should new locations be added?";
 
-//
 // Units - Long Form
-//
 
 "Celsius" = "Celsius";
 "Fahrenheit" = "Fahrenheit";
@@ -214,9 +188,7 @@
 "Millimeter of Mercury" = "Millimeter of Mercury";
 "Millibar" = "Millibar";
 
-//
 // Units - Short Form
-//
 
 "C" = "C"; // celsius
 "F" = "F"; // fahrenheit
@@ -235,9 +207,7 @@
 "hPa" = "hPa";
 "mb" = "mb";
 
-//
 // Month Names - Long
-//
 
 "January" = "January";
 "February" = "February";
@@ -252,9 +222,7 @@
 "November" = "November";
 "December" = "December";
 
-//
 // Month Names - Short
-//
 
 "J" = "J";
 "F" = "F";
@@ -265,9 +233,7 @@
 "N" = "N";
 "D" = "D";
 
-//
 // Forecast
-//
 
 "ForecastDataUnavailable" = "Forecast Data Currently Unavailable";
 "NoPrecipitationForTheHour" = "No precipitation for the hour";
@@ -275,6 +241,7 @@
 "Radar" = "Radar";
 "MonthlyAverages" = "Monthly Averages";
 "FeelsLike" = "Feels Like";
+"Feels Like" = "Feels Like";
 "Actual" = "Actual";
 "ActualTemp" = "Actual Temp";
 "Precipitation" = "Precipitation";
@@ -298,17 +265,15 @@
 "FogDays" = "Fog Days";
 "HoursOfSun" = "Hours of Sun";
 
-//
 // Forecast - Times
-//
 
 "Now" = "Now";
 "Today" = "Today";
 "Average" = "Average";
 
 "Yr" = "Yr";
-"mins" = "mins";
-"min" = "min";
+"mins" = "mins"; // as in minutes
+"min" = "min"; // as in minute
 "more" = "more";
 "More" = "More";
 "Weather Alert" = "Weather Alert";
@@ -317,9 +282,7 @@
 "at" = "at";
 "Noon" = "Noon";
 
-//
 // Forecast - Wind directions
-//
 
 "NE" = "NE";
 "E" = "E";
@@ -330,9 +293,7 @@
 "NW" = "NW";
 "N" = "N";
 
-//
 // Forecast - Moon phases
-//
 
 "New" = "New";
 "Waxing Crescent" = "Waxing Crescent";
@@ -343,9 +304,7 @@
 "Last Quarter" = "Last Quarter";
 "Waning Crescent" = "Waning Crescent";
 
-//
 // Forecast - Conditions
-//
 
 "Clear" = "Clear";
 "Rain" = "Rain";
@@ -391,9 +350,7 @@
 "Alert" = "Alert";
 "Not Available" = "Not Available";
 
-//
 // Forecast Detail
-//
 
 "Share..." = "Share...";
 "ShareForecast" = "Share Forecast";
@@ -405,9 +362,7 @@
 "OpenMail" = "Open Mail";
 "EmailUs-Message" = "Please contact us at team@weatherlineapp.com.";
 
-//
 // Travel Assist
-//
 
 "Travel Assist" = "Travel Assist";
 "TravelAssistActionTitle" = "\nTravel Assist";
@@ -418,17 +373,13 @@
 "Away" = "Away";
 "Home" = "Home";
 
-//
 // Widget
-//
 
 "WidgetNoLocations" = "Add a location to view the forecast.";
 "WidgetError" = "Forecast data not available.";
 "WidgetErrorGraph" = "Forecast data not available.";
 
-//
 // Subscription
-//
 
 "Supercharge" = "Supercharge";
 "Supercharged" = "Supercharged";
@@ -465,9 +416,7 @@
 
 "PrecipitationUnlock" = "Unlock real-time precipitation";
 
-//
-/// Sharing Forecasts
-//
+// Sharing Forecasts
 
 "shareTitle-forecastCard" = "Forecard Card";
 "shareTitle-entireForecast" = "Entire Card";
@@ -478,9 +427,7 @@
 "shareTitle-historicalGraph" = "Monthly Averages Graph";
 "shareTitle-historicalDetails" = "Monthly Averages Details";
 
-//
 // Onboarding
-//
 
 "Let’s go" = "Let’s go";
 "Next" = "Next";
@@ -494,9 +441,7 @@
 "Make it yours" = "Make it yours";
 "Choose from 18 themes, over 50 app icons, and 4 different dark modes." = "Choose from 18 themes, over 50 app icons, and 4 different dark modes.";
 
-//
 // Onboarding - Benefits Table
-//
 
 "Animated Radar" = "Animated Radar";
 "Remove Ads" = "Remove Ads";
@@ -510,9 +455,7 @@
 "Moon Phases" = "Moon Phases";
 "Up to 10 Locations" = "Up to 10 Locations";
 
-//
 // Onboarding - Subscription Terms
-//
 
 "✓ No Commitment   ✓ Cancel Anytime
 
@@ -544,9 +487,7 @@ After the (YEARLYTRIAL) free trial this subscription automatically renews for (P
 
 "Your Apple ID will immediately be charged a one-time payment of (PRICE)." = "Your Apple ID will immediately be charged a one-time payment of (PRICE)."; // ignore (PRICE)
 
-//
 // Legacy subscription
-//
 
 "Limited Time" = "Limited Time";
 "Special Offer" = "Special Offer";
@@ -558,17 +499,13 @@ After the (YEARLYTRIAL) free trial this subscription automatically renews for (P
 "Then regular annual price" = "Then regular annual price";
 "Then (PRICE) per (PERIOD)" = "Then (PRICE) per (PERIOD)"; // i.e "Then $20.99 per year."
 
-//
 // Ads
-//
 
 "Remove Ads" = "Remove Ads";
 "+21 more features" = "+21 more features";
 "Try 7 days free" = "Try 7 days free";
 
-//
 // Special Cases
-//
 
 "From Deepak and Ryan" = "From Deepak and Ryan";
 "Since 2015, we‘ve lost money – every time you check the weather <strong>we pay our data suppliers</strong> and we lacked ongoing income to pay ongoing expenses. We paid for our mistake by using personal savings to stay afloat instead of WL1 shutting down or changing to subscription, while building WL2 into <strong>as big of an upgrade as possible</strong>. We built WL2 for two years to make sure we over-delivered on new features in a worthy upgrade. To see the new features and redeem <strong>a discount for WL1 users</strong>, tap Continue. <discount>Tap “Weather Line 1 User?” on the payment screen to authenticate for a discount</discount>
@@ -578,4 +515,3 @@ After the (YEARLYTRIAL) free trial this subscription automatically renews for (P
 "Weather Line is made by Ryan Jones and Deepak Mantena in Austin, TX and Portland, OR. \n\nMany thanks to Kevin Clark, Brad Ellis, Mircea Grelus, Oz Michaeli, and our lovely and tireless beta testers." = "Weather Line is made by Ryan Jones and Deepak Mantena in Austin, TX and Portland, OR. \n\nMany thanks to Kevin Clark, Brad Ellis, Mircea Grelus, Oz Michaeli, and our lovely and tireless beta testers.";
 "Terms of Use" = "Terms of Use";
 "Privacy Policy" = "Privacy Policy";
-
