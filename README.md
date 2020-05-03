@@ -4,7 +4,7 @@ This repository is for localizing the text necessary to offer Weather Line in mo
 
 # Status
 
-Last updated May 2, 2020
+Last updated May 3, 2020
 
 |Localization | In-App Text | App Store Text |
 |--------------|----------|----------------|
