@@ -5,13 +5,13 @@
  // Instructions
 
  1. Each line contains one text string.
- 2. Left of equal symbol is the original english text, right of the equal symbol is intended for the translated text.
- 3. Replace the right side of each equal sign with your translated text.
+ 2. Leave the left side of the equal sign in English.
+ 3. Translate the right side of the equal sign.
  
- Notes
- - Use less than 120% of the character count of the english text
- - Ignore text after double slashes. //
- - Ignore text in parentheses. ()
+ Rules
+ - Maximum characters = 120% english character count
+ - Ignore text after double slashes //
+ - Ignore text in parentheses ()
  - Ignore "/n"
  
 */
