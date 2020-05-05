@@ -1,6 +1,10 @@
-# Translations
+# Purpose
 
-This repository is for localizing the text necessary to offer Weather Line in more local languages around the world. Contributors are app users that translate in exchange for lifetime access to Weather Line. Contact us at team@weatherlineapp.com if you would like to contribute.
+This repository is for translating Weather Line into more languages. Contributors are app users that translate in exchange for lifetime access to Weather Line. Contact us at team@weatherlineapp.com if you would like to contribute.
+
+# How To
+
+You must have a github account (free registration here) to contribute.
 
 # Status
 
