@@ -1,6 +1,6 @@
 # Purpose
 
-Translating [Weather Line](https://apps.apple.com/us/app/id715319015) into different languages. Translations are done here on Github by app users in exchange for lifetime access to Weather Line. Contact us at team@weatherlineapp.com if you would like to contribute.
+Translating [Weather Line](https://apps.apple.com/us/app/id715319015) app into different languages. Translations are done here on Github by app users in exchange for lifetime access to Weather Line. Contact us at team@weatherlineapp.com if you would like to contribute.
 
 # How To
 
@@ -23,5 +23,5 @@ Last updated May 3, 2020
 | Polish | pl-PL | Translator Needed | Translator Needed |
 | Portuguese | pt-PT | Translator Needed | Translator Needed |
 | Spanish | es-ES | Translator Needed | Translator Needed |
-| Simplified Chinese | zn-CN | Translator Needed | Translator Needed |
+| Simplified Chinese | zh-CN | Translator Needed | Translator Needed |
 | Japanese | ja-JP | Translator Needed | Translator Needed |a
