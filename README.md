@@ -16,8 +16,8 @@ Last updated May 3, 2020
 
 |Language | Localization Code | App Text | App Store Text |
 |--------------|----------|----------------|-----------------|
-| English | en-US | Done | Done |
-| French | fr-FR | WIP @textoraxel | WIP @textoraxel |
+| English | en-US | ✅ | ✅ |
+| French | fr-FR | 🚧 @textoraxel | 🚧 @textoraxel |
 | German | de-DE | Translator Needed | Translator Needed |
 | Italian | it-IT | Translator Needed | Translator Needed |
 | Polish | pl-PL | Translator Needed | Translator Needed |
