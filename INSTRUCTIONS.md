@@ -4,7 +4,10 @@ Translating [Weather Line](https://apps.apple.com/us/app/id715319015) into diffe
 
 # How To
 
-You must have a free github account (github.com/join) to contribute. After logging in to Github, go [here](https://github.com/weather-line/translations) and click the language file you would like to translate. (Each language can have multiple files.) Read the instructions, then edit the file with your translations, then propose a file change.
+1. You must have a free github account (github.com/join) to contribute. 
+2. After logging in to Github, go [here](https://github.com/weather-line/translations) and click the language file you would like to translate. (Each language can have multiple files.) 
+3. Read the instructions, then edit the file with your translations
+4. Then click "propose a file change".
 
 To edit, click the pencil button in the top right corner. To propose file changes, scroll to the bottom of the edit page, summarize your changes in the two text boxes and then click the green "Propose file change" button.
 
@@ -12,7 +15,7 @@ To edit, click the pencil button in the top right corner. To propose file change
 
 Last updated May 3, 2020
 
-|Language | Localization Code | In-App Text | App Store Text |
+|Language | Localization Code | App Text | App Store Text |
 |--------------|----------|----------------|-----------------|
 | English | en-US | Done | Done |
 | French | fr-FR | Translator Needed | Translator Needed |
