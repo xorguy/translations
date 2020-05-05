@@ -1,23 +1,25 @@
 # Purpose
 
-This repository is for translating Weather Line into more languages. Contributors are app users that translate in exchange for lifetime access to Weather Line. Contact us at team@weatherlineapp.com if you would like to contribute.
+Translating [Weather Line](https://apps.apple.com/us/app/id715319015) into different languages. Translations are done here on Github by app users in exchange for lifetime access to Weather Line. Contact us at team@weatherlineapp.com if you would like to contribute.
 
 # How To
 
-You must have a github account (free registration here) to contribute.
+You must have a free github account (github.com/join) to contribute. After logging in to Github, go [here](https://github.com/weather-line/translations) and click the language file you would like to translate. (Each language can have multiple files.) Read the instructions, then edit the file with your translations, then propose a file change.
+
+To edit, click the pencil button in the top right corner. To propose file changes, scroll to the bottom of the edit page, summarize your changes in the two text boxes and then click the green "Propose file change" button.
 
 # Status
 
 Last updated May 3, 2020
 
-|Localization | In-App Text | App Store Text |
-|--------------|----------|----------------|
-| English | Done | Done |
-| French | Translator Needed | Translator Needed |
-| German | Translator Needed | Translator Needed |
-| Italian | Translator Needed | Translator Needed |
-| Polish | Translator Needed | Translator Needed |
-| Portuguese | Translator Needed | Translator Needed |
-| Spanish | Translator Needed | Translator Needed |
-| Simplified Chinese | Translator Needed | Translator Needed |
-| Japanese | Translator Needed | Translator Needed |a
+|Language | Localization Code | In-App Text | App Store Text |
+|--------------|----------|----------------|-----------------|
+| English | en-US | Done | Done |
+| French | fr-FR | Translator Needed | Translator Needed |
+| German | de-DE | Translator Needed | Translator Needed |
+| Italian | it-IT | Translator Needed | Translator Needed |
+| Polish | pl-PL | Translator Needed | Translator Needed |
+| Portuguese | pt-PT | Translator Needed | Translator Needed |
+| Spanish | es-ES | Translator Needed | Translator Needed |
+| Simplified Chinese | zn-CN | Translator Needed | Translator Needed |
+| Japanese | ja-JP | Translator Needed | Translator Needed |a
