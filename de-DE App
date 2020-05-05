@@ -1,17 +1,19 @@
 /*
- Weather Line Strings
- en-US
+ Text in Weather Line App
+ de-DE
 
  // Instructions
 
- 1. Create a new file named "language App" where language is the language localization you're translating to (https://en.wikipedia.org/wiki/Language_localisation). Ex. for standard French "fr-FR App"
- 2. This file is formatted as "Text" = "Translated Text". Text left of the equal sign should remain in English. Text right of the equal sign should be translated. Ex. "Text" = "texte traduit";
- 3. Do not translate text after double slashes. These are just code comments. Ex. // General - App
- 4. Do not translate text in parentheses, except as noted. Ex. (Text)
- 5. Leave "\n" as "\n"
- 6. Make a best effort to use the same number of characters as the English version or fewer.
- 7. Open a pull request with your translated changes, adding the name you'd like to be credited as and your email address in the PR description, and we'll get in touch with free access to Weather Line Supercharge.
-
+ 1. Each line contains one text string.
+ 2. Left of equal symbol is the original english text, right of the equal symbol is intended for the translated text.
+ 3. Replace the right side of each equal sign with your translated text.
+ 
+ Notes
+ - Use less than 120% of the character count of the english text
+ - Ignore text after double slashes. //
+ - Ignore text in parentheses. ()
+ - Ignore "/n"
+ 
 */
 
 // General - App
