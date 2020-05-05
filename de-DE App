@@ -1,14 +1,12 @@
 /*
  Text in Weather Line App
- de-DE
 
  // Instructions
-
  1. Each line contains one text string.
  2. Leave the left side of the equal sign in English.
  3. Translate the right side of the equal sign.
  
- Rules
+ // Rules
  - Maximum characters = 120% english character count
  - Ignore text after double slashes //
  - Ignore text in parentheses ()
