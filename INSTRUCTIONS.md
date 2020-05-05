@@ -1,6 +1,6 @@
 # Purpose
 
-Translating [Weather Line](https://apps.apple.com/us/app/id715319015) app into different languages. Translations are done here on Github by app users in exchange for lifetime access to Weather Line. Contact us at team@weatherlineapp.com if you would like to contribute.
+The purpose of this directory is to translate [Weather Line](https://apps.apple.com/us/app/id715319015) app into different languages. Translations are done here on Github by app users in exchange for lifetime access to Weather Line. Contact us at team@weatherlineapp.com if you would like to contribute!
 
 # How To
 
