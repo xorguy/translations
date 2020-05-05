@@ -4,9 +4,9 @@ Translating [Weather Line](https://apps.apple.com/us/app/id715319015) into diffe
 
 # How To
 
-1. Login to Github (create a free account at github.com/join)
-2. From the [directory](https://github.com/weather-line/translations), and click the language file(s) you would like to translate. Each language can have multiple files.
-3. Read the file's instructions carefully
+1. Login to Github (create a free account [here](github.com/join))
+2. From the [directory](https://github.com/weather-line/translations), click the language file(s) you would like to translate. Each language can have multiple files.
+3. Read the file instructions carefully.
 4. Click the pencil icon in the top right corner to start editing.
 4. Click "propose a file change" at the very bottom when you are done. 
 
