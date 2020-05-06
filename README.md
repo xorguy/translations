@@ -17,7 +17,7 @@ The purpose of this directory is to translate [Weather Line](https://apps.apple.
 |--------------|----------|----------------|-----------------|--------|
 | English | en-US | ✅ | ✅ |
 | French | fr-FR | 🚧 @textoraxel | 🚧 @textoraxel | [@nildeala](https://twitter.com/Nildeala) 
-| German | de-DE | 🚧 Samuel B | 🚧 Samuel B  | [@thechriiiistoph](https://twitter.com/thechriiistoph) [@Danneh_K](https://twitter.com/Danneh_K)
+| German | de-DE | 🚧 Samuel B | 🚧 Samuel B  | [@thechriiiistoph](https://twitter.com/thechriiistoph) [@Danneh_K](https://twitter.com/Danneh_K) [@pichfl](https://twitter.com/pichfl)
 | Italian | it-IT | 🚧 [@darklink88](https://twitter.com/darklink88) | 🚧 [@darklink88](https://twitter.com/darklink88) |
 | Polish | pl-PL | 🚧 [@piotr_nowakk](https://twitter.com/piotr_nowakk) | 🚧 [@piotr_nowakk](https://twitter.com/piotr_nowakk) |
 | Portuguese | pt-PT | 🚧 @maique | 🚧 @maique |
