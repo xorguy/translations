@@ -8,7 +8,7 @@ The purpose of this directory is to translate [Weather Line](https://apps.apple.
 2. From the [directory](https://github.com/weather-line/translations), click the language file(s) you would like to translate. Each language can have multiple files.
 3. Read the file instructions carefully.
 4. Click the pencil icon in the top right corner to start editing.
-4. Click "propose a file change" at the very bottom when you are done. 
+4. When you are done, scroll to the very bottom, add a title and description to your changes, select the option for "Create a new branch for this commit and start a pull request" than click "propose a file change".
 
 # Status
 
