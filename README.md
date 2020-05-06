@@ -13,9 +13,7 @@ The purpose of this directory is to translate [Weather Line](https://apps.apple.
 
 # Status
 
-Last updated May 3, 2020
-
-|Language | Localization Code | App Text | App Store Text |
+|Language | Code | App Text | App Store Text |
 |--------------|----------|----------------|-----------------|
 | English | en-US | ✅ | ✅ |
 | French | fr-FR | 🚧 @textoraxel | 🚧 @textoraxel |
