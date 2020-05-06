@@ -24,3 +24,4 @@ The purpose of this directory is to translate [Weather Line](https://apps.apple.
 | Spanish | es-ES | 🚧 Daniel C | 🚧 Daniel C | [@vsolefe](https://twitter.com/vsolefe)
 | Simplified Chinese | zh-CN | Translator Needed | Translator Needed |
 | Japanese | ja-JP | Translator Needed | Translator Needed | 
+| Swedish | sv-SE | 🚧 [@jszotten](https://twitter.com/jszotten) | 🚧 @jszotten](https://twitter.com/jszotten)
