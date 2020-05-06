@@ -20,7 +20,7 @@ The purpose of this directory is to translate [Weather Line](https://apps.apple.
 | German | de-DE | 🚧 Samuel B | 🚧 Samuel B  |
 | Italian | it-IT | Translator Needed | Translator Needed |
 | Polish | pl-PL | Translator Needed | Translator Needed |
-| Portuguese | pt-PT | Translator Needed | Translator Needed |
+| Portuguese | pt-PT | 🚧 @maique | 🚧 @maique |
 | Spanish | es-ES | 🚧 Daniel C | 🚧 Daniel C |
 | Simplified Chinese | zh-CN | Translator Needed | Translator Needed |
 | Japanese | ja-JP | Translator Needed | Translator Needed |a
