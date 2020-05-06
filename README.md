@@ -19,7 +19,7 @@ Last updated May 3, 2020
 |--------------|----------|----------------|-----------------|
 | English | en-US | ✅ | ✅ |
 | French | fr-FR | 🚧 @textoraxel | 🚧 @textoraxel |
-| German | de-DE | Translator Needed | Translator Needed |
+| German | de-DE | 🚧 Samuel B | 🚧 Samuel B  |
 | Italian | it-IT | Translator Needed | Translator Needed |
 | Polish | pl-PL | Translator Needed | Translator Needed |
 | Portuguese | pt-PT | Translator Needed | Translator Needed |
