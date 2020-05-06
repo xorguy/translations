@@ -1,0 +1,527 @@
+/*
+ Text in Weather Line App
+
+ // Instructions
+ 1. Each line contains one text string.
+ 2. Leave the left side of the equal sign in English.
+ 3. Translate the right side of the equal sign.
+ 
+ // Rules
+ - Maximum characters = 120% english character count
+ - Ignore text after double slashes //
+ - Ignore text in parentheses ()
+ - Ignore "/n"
+ 
+*/
+
+// General - App
+
+"WeatherLine" = "Weather Line";
+"Settings" = "Settings";
+"Done" = "Done";
+"Cancel" = "Cancel";
+"On" = "On";
+"Off" = "Off";
+"–" = "–";
+"None" = "None";
+"Reset" = "Reset";
+"Skip" = "Skip";
+"By" = "By";
+"Of" = "Of"; // as in 1 of 3 pages
+
+"Report a Bug" = "Report a Bug";
+"Report a Data Problem" = "Report a Data Problem";
+"Request a Feature" = "Request a Feature";
+"Ask a Question" = "Ask a Question";
+"Cancel" = "Cancel";
+
+"Rename" = "Rename";
+"Continue" = "Continue";
+"Never" = "Never";
+"Status" = "Status";
+"Manage" = "Manage";
+"Type" = "Type"; // as in type of something (noun), not action to type (verb)
+"Expires" = "Expires";
+"RestorePurchases" = "Restore Purchases";
+"Upgrade To" = "Upgrade To";
+
+"What's New in Weather Line" = "What's New\nin Weather Line";
+"What's New" = "What's New";
+
+// General - Time-based
+
+"Hours" = "Hours";
+"Hour" = "Hour";
+"Day" = "Day";
+"Days" = "Days";
+"Week" = "Week";
+"Weeks" = "Weeks";
+"Month" = "Month";
+"Months" = "Months";
+
+"Hourly" = "Hourly";
+"Daily" = "Daily";
+
+"AddMyLocation" = "Add My Location";
+
+// Toasts - Forecast Refreshing
+
+"Updating" = "Updating...";
+"LastUpdated" = "Last updated";
+"Offline" = "Offline";
+"Unknown" = "Unknown";
+
+// Settings
+
+"UpgradeToSuperchargeTitle" = "Upgrade to Supercharge";
+"EmptyLocationList-Header" = "No Locations";
+"EmptyLocationList-Message" = "Use the top menu to add a location";
+"AddANewLocation" = "Add a new location";
+"DeleteALocation" = "Delete an existing location to add a new one";
+"ManageLocationsTitle" = "Locations";
+"WidgetTitle" = "Widget";
+"LaunchMode" = "Launch Style";
+"ManageAdsTitle" = "Ads";
+"ManageAccountTitle" = "Subscription";
+"ManageThemeTitle" = "Theme";
+"AppIconTitle" = "App Icon";
+"WeatherData" = "Weather Data";
+"WeatherDataTitle" = "Data Source";
+"ManageRadarTitle" = "Radar";
+"MoonPhasesTitle" = "Moon Phases";
+"ManageUnitsTitle" = "Units";
+"ManageTemperatureTitle" = "Temperature Type";
+"Legend" = "Legend";
+"ContactUs" = "Contact Us";
+"RateWeatherLine" = "Rate App";
+"ShareApp" = "Share App";
+"FollowWeatherLine" = "Follow Us";
+"ManageSubscription" = "Manage Subscription";
+"Acknowledgments" = "Acknowledgments";
+"ShowWalkthrough" = "Show App Walkthrough";
+
+// Settings section headers
+
+"Locations" = "Locations";
+"Appearance" = "Appearance";
+"Other" = "Other";
+
+// Settings subpages
+
+"Open-Source Components" = "Open-Source Components";
+
+"LaunchModeHelpText" = "Fresh launches of the app will open to this screen.";
+"WidgetHelpText" = "Turn on to automatically match app's theme. Leave off to use standard translucent widget background. (SC) required for graph and themes.";
+"MoonPhaseHelpText" = "(SC) required for moon data.\n";
+"AnimatedRadarHelpText" = "(SC) required for animation.\n";
+"AdsHelpText" = "(SC) required to remove ads.\n";
+"ThemesHelpText" = "(SC) required for themes other than Light and Dark.\n";
+"GraphTemperatureHelpText" = "Choose which temperature to graph. The other will be displayed below the graph.\n";
+"BasicWeatherHeader" = "Basic";
+"BasicWeatherSubtitle" = "Standard NOAA 7-day forecast";
+"SuperForecastHeader" = "Super Forecast";
+"SuperForecastSubtitle" = "Best of everything 10-day forecast";
+"Forecasting" = "Forecasting";
+"SuperForecastDetailHeader" = "Welcome to the future of weather";
+"SuperForecastDetailText" = "The world’s #1 provider of each forecast type – combined into one view. You get the best of everything.";
+"DarkSkyRadarAvailability" = "Dark Sky short-term precipitation available in US, UK, and Ireland. Animated radar available in US, Canada, UK, Europe, Australia, and Japan.\n";
+"UseDarkSky" = "Use Dark Sky for Forecasting";
+
+"Standard" = "Standard";
+"Muted Standard" = "Muted Standard";
+"Satellite" = "Satellite";
+"Hybrid" = "Hybrid";
+"Automatically When Loaded" = "Automatically When Loaded";
+"When Tapped" = "When Tapped";
+"Automatically" = "Automatically";
+"All, Hourly" = "All, Hourly";
+"All, Daily" = "All, Daily";
+"Top, Hourly" = "Top, Hourly";
+"Top, Daily" = "Top, Daily";
+"All Locations, Hourly Graph" = "All Locations, Hourly Graph";
+"All Locations, Daily Graph" = "All Locations, Daily Graph";
+"Top Location, Hourly Graph" = "Top Location, Hourly Graph";
+"Top Location, Daily Graph" = "Top Location, Daily Graph";
+
+"Auto Match to Theme" = "Auto Match to Theme";
+"Update Theme Settings" = "Update Theme Settings";
+"Open Theme Settings" = "Open Theme Settings";
+
+"To enable automatically matching your app icon to the theme, first disable (ALERT) in theme settings." =  "To enable automatically matching your app icon to the theme, first disable (ALERT) in theme settings."; // WL-Insert
+
+"Play Animation" = "Play Animation";
+"Map Style" = "Map Style";
+"Show Map Pin" = "Show Map Pin";
+"Animation Preview" = "Animation Preview";
+"Preview" = "Preview";
+
+"Show Moon Phases" = "Show Moon Phases";
+
+// Search for Location
+
+"CurrentLocation" = "Current Location";
+"AddLocationSearchBarPlaceholder" = "Search";
+"LocationAccess-NotAuthorizedTitle" = "Not Authorized";
+"LocationAccess-NotAuthorizedMessage" = "Enable location access to get forecasts for your current location.";
+"LocationAccess-CouldntDetermineTitle" = "Couldn’t Determine Location";
+"LocationAccess-CouldntDetermineMessage" = "Ensure location access is enabled in Settings and try again.";
+"Automatic" = "Automatic";
+"Saved" = "Saved";
+"AddLocationSearchMessage" = "Enter street address, city, zip code, or airport.";
+"AddLocationListLocationMessage" = "Where on your saved list should new locations be added?";
+
+// Units - Long Form
+
+"Celsius" = "Celsius";
+"Fahrenheit" = "Fahrenheit";
+"Kelvin" = "Kelvin";
+"Miles Per Hour" = "Miles Per Hour";
+"Kilometers Per Hour" = "Kilometers Per Hour";
+"Meters Per Second" = "Meters Per Second";
+"Knots" = "Knots";
+"Beaufort" = "Beaufort";
+"Inches" = "Inches";
+"Centimeters" = "Centimeters";
+"Millimeters" = "Millimeters";
+"Inch of Mercury" = "Inch of Mercury";
+"Hectopascal" = "Hectopascal";
+"Millimeter of Mercury" = "Millimeter of Mercury";
+"Millibar" = "Millibar";
+
+// Units - Short Form
+
+"C" = "C"; // celsius
+"F" = "F"; // fahrenheit
+"K" = "K"; // kelvin
+"mph" = "mph";
+"kph" = "kph";
+"in" = "in"; // inch
+"cm" = "cm";
+"mm" = "mm";
+"mph" = "mph";
+"m/s" = "m/s";
+"km/h" = "km/h";
+"kn" = "kn"; // knots
+"inHg" = "inHg";
+"mmHg" = "mmHg";
+"hPa" = "hPa";
+"mb" = "mb";
+
+// Month Names - Long
+
+"January" = "January";
+"February" = "February";
+"March" = "March";
+"April" = "April";
+"May" = "May";
+"June" = "June";
+"July" = "July";
+"August" = "August";
+"September" = "September";
+"October" = "October";
+"November" = "November";
+"December" = "December";
+
+// Month Names - Short
+
+"J" = "J";
+"F" = "F";
+"M" = "M";
+"A" = "A";
+"S" = "S";
+"O" = "O";
+"N" = "N";
+"D" = "D";
+
+// Forecast
+
+"ForecastDataUnavailable" = "Forecast Data Currently Unavailable";
+"NoPrecipitationForTheHour" = "No precipitation for the hour";
+"Gust" = "Gust";
+"Radar" = "Radar";
+"MonthlyAverages" = "Monthly Averages";
+"FeelsLike" = "Feels Like";
+"Feels Like" = "Feels Like";
+"Actual" = "Actual";
+"ActualTemp" = "Actual Temp";
+"Precipitation" = "Precipitation";
+"Snow" = "Snow";
+"Sleet" = "Sleet";
+"DewPoint" = "Dew Point";
+"Humidity" = "Humidity";
+"Sunrise" = "Sunrise";
+"Sunset" = "Sunset";
+"Wind" = "Wind";
+"UVIndex" = "UV Index";
+"CloudCover" = "Cloud Cover";
+"AvgHigh" = "Average High";
+"AvgLow" = "Average Low";
+"MonthlyRain" = "Monthly Rain";
+"MonthlyRainCondensed" = "Mo. Rain";
+"DailyRain" = "Daily Rain";
+"RainDays" = "Rain Days";
+"SnowDays" = "Snow Days";
+"DryDays" = "Dry Days";
+"FogDays" = "Fog Days";
+"HoursOfSun" = "Hours of Sun";
+
+// Forecast - Times
+
+"Now" = "Now";
+"Today" = "Today";
+"Average" = "Average";
+
+"Yr" = "Yr";
+"mins" = "mins"; // as in minutes
+"min" = "min"; // as in minute
+"more" = "more";
+"More" = "More";
+"Weather Alert" = "Weather Alert";
+"Weather Alerts" = "Weather Alerts";
+"Expires" = "Expires";
+"at" = "at";
+"Noon" = "Noon";
+
+// Forecast - Wind directions
+
+"NE" = "NE";
+"E" = "E";
+"SE" = "SE";
+"S" = "S";
+"SW" = "SW";
+"W" = "W";
+"NW" = "NW";
+"N" = "N";
+
+// Forecast - Moon phases
+
+"New" = "New";
+"Waxing Crescent" = "Waxing Crescent";
+"First Quarter" = "First Quarter";
+"Waxing Gibbous" = "Waxing Gibbous";
+"Full" = "Full";
+"Waning Gibbous" = "Waning Gibbous";
+"Last Quarter" = "Last Quarter";
+"Waning Crescent" = "Waning Crescent";
+
+// Forecast - Conditions
+
+"Clear" = "Clear";
+"Rain" = "Rain";
+"Snow" = "Snow";
+"Sleet" = "Sleet";
+"Windy" = "Windy";
+"Fog" = "Fog";
+"Partly Cloudy" = "Partly Cloudy";
+"Mostly Cloudy" = "Mostly Cloudy";
+"Hail" = "Hail";
+"Icy" = "Icy";
+"Cloudy" = "Cloudy";
+"Tornado" = "Tornado";
+"Hurricane" = "Hurricane";
+"Thunderstorm" = "Thunderstorm";
+"Sandstorm" = "Sandstorm";
+
+"Most Common" = "Most Common";
+"Extra Hot" = "Extra Hot";
+"Precipitation" = "Precipitation";
+"Clear Night" = "Clear Night";
+"Cloudy Night" = "Cloudy Night";
+"Other" = "Other";
+"Radar" = "Radar";
+"Sunny" = "Sunny";
+"Partly Cloudy" = "Partly Cloudy";
+"Mostly Cloudy" = "Mostly Cloudy";
+"Cloudy" = "Cloudy";
+"Drizzle" = "Drizzle";
+"Light Rain" = "Light Rain";
+"Heavy Rain" = "Heavy Rain";
+"Torrential Downpour" = "Torrential Downpour";
+"Light Snow" = "Light Snow";
+"Snow" = "Snow";
+"Heavy Snow" = "Heavy Snow";
+"Icy" = "Icy";
+"Hail" = "Hail";
+"Sleet" = "Sleet";
+"Windy" = "Windy";
+"Foggy" = "Foggy";
+"Tornado" = "Tornado";
+"Hurricane" = "Hurricane";
+"Alert" = "Alert";
+"Not Available" = "Not Available";
+
+// Forecast Detail
+
+"Share..." = "Share...";
+"ShareForecast" = "Share Forecast";
+"ReportADataProblem" = "Report a Data Problem";
+"AffectedAreas" = "Affected Areas";
+"OpenAlertWebsite" = "Open Alert Website";
+"Share" = "Share";
+"EmailUs" = "Email Us";
+"OpenMail" = "Open Mail";
+"EmailUs-Message" = "Please contact us at team@weatherlineapp.com.";
+
+// Travel Assist
+
+"Travel Assist" = "Travel Assist";
+"TravelAssistActionTitle" = "\nTravel Assist";
+"TravelAssistMessage" = "When you travel more than (AAD) away, your home will appear as a separate location. Your home address is only stored on your device."; // ignore (AAD)
+"TravelAssistChooseLocation" = "Choose Home Location";
+"TravelAssistChangeLocation" = "Change Home Location";
+"TravelAssistTurnOff" = "Turn Off";
+"Away" = "Away";
+"Home" = "Home";
+
+// Widget
+
+"WidgetNoLocations" = "Add a location to view the forecast.";
+"WidgetError" = "Forecast data not available.";
+"WidgetErrorGraph" = "Forecast data not available.";
+
+// Subscription
+
+"Supercharge" = "Supercharge";
+"Supercharged" = "Supercharged";
+"SuperForecast" = "Super Forecast";
+"Super Forecast" = "Super Forecast";
+"SuperForecast-LegacyProvider" = "Super Forecast Legacy";
+"Free" = "Free";
+
+"Subscription-CantMakePurchasesTitle" = "Purchases Not Allowed";
+"Subscription-CantMakePurchasesMessage" = "This device is not authorized to make purchases. Sign into the App Store with an authorized account and try again.";
+"Subscription-PurchaseFailedTitle" = "Purchase Failed";
+"Subscription-PurchaseFailedMessage" = "Unable to complete your purchase. Please try again. ((ERR))"; // localize up to ((ERR))
+"Subscription-PurchaseFailedGenericMessage" = "Unable to complete your purchase. Please try again.";
+"Subscription-SuccessTitle" = "(SC) Unlocked"; // ignore (SC)
+"Subscription-SuccessMessage" = "All features have been unlocked and ads have been turned off.";
+"Subscription-NoPreviousPurchasesTitle" = "Restore Purchases";
+"Subscription-NoPreviousPurchasesMessage" = "No previous purchases found.";
+"Subscription-LegacyCheckTitle" = "Verification Required";
+"Subscription-LegacyCheckMessage" = "You may be asked to login with your Apple ID to confirm you were a Weather Line 1 user.";
+
+"Subscription-LegacyFailureTitle" = "Not Available";
+"Subscription-LegacyFailureWL1Message" = "It appears that you were not a Weather Line 1 user.\n\nIf you believe this is an error, please try again or contact us.";
+"Subscription-LegacyFailureIntroMessage" = "It appears that you have previously subscribed to Weather Line 2.\n\nIf you believe this is an error, please try again or contact us.";
+"Subscription-LegacyFailureGeneralMessage" = "It appears that you were not a Weather Line 1 user or have previously subscribed to Weather Line 2.\n\nIf you believe this is an error, please try again or contact us.";
+
+"Subscription-ExpirationTitle" = "Subscription Expired";
+"Subscription-ExpirationMessage" = "It appears that your (SC) subscription has expired. To unlock all features and remove ads, subscribe again at any time."; // ignore (SC)
+
+"ManageSubscriptionPlan-Lifetime" = "(SC) (Lifetime)"; // just localize Lifetime
+"ManageSubscriptionPlan-Free" = "Not (SC)"; // just localize Not
+"ManageSubscriptionPlan-Annual" = "(SC) (Annual)"; // just localize Annual
+"ManageSubscriptionPlan-Monthly" = "(SC) (Monthly)"; // just localize Monthly
+"ManageSubscriptionPlan-Promo" = "(SC) (Promo)"; // just localize Promo
+
+"PrecipitationUnlock" = "Unlock real-time precipitation";
+
+// Sharing Forecasts
+
+"shareTitle-forecastCard" = "Forecard Card";
+"shareTitle-entireForecast" = "Entire Card";
+"shareTitle-forecastGraph" = "Forecast Graph";
+"shareTitle-forecastDetails" = "Forecast Details";
+"shareTitle-precipitation" = "Precipitation";
+"shareTitle-radar" = "Radar";
+"shareTitle-historicalGraph" = "Monthly Averages Graph";
+"shareTitle-historicalDetails" = "Monthly Averages Details";
+
+// Onboarding
+
+"Let’s go" = "Let’s go";
+"Next" = "Next";
+"Industry First" = "Industry First";
+"Weather Line 1 User?" = "Weather Line 1 User?";
+"All-new design, themes, and more..." = "All-new design, themes, and more...";
+"Our innovative weather line" = "Our innovative weather line";
+"Turned up to 100°" = "Turned up to 100°";
+"For your home weather" = "For your home weather";
+"Travel Assist automatically manages displaying your home weather while you travel." = "Travel Assist automatically manages displaying your home weather while you travel.";
+"Make it yours" = "Make it yours";
+"Choose from 18 themes, over 50 app icons, and 4 different dark modes." = "Choose from 18 themes, over 50 app icons, and 4 different dark modes.";
+
+// Onboarding - Benefits Table
+
+"Animated Radar" = "Animated Radar";
+"Remove Ads" = "Remove Ads";
+"18 Themes" = "18 Themes";
+"And much more..." = "And much more...";
+"Extended 10-Day Forecast" = "Extended 10-Day Forecast";
+"Down-To-The-Minute Precipitation" = "Down-To-The-Minute Precipitation";
+"Over 50 App Icons" = "Over 50 App Icons";
+"Today Widget Graph and Themes" = "Today Widget Graph and Themes";
+"Extended 72-Hour Forecast" = "Extended 72-Hour Forecast";
+"Moon Phases" = "Moon Phases";
+"Up to 10 Locations" = "Up to 10 Locations";
+
+"Get Better Forecasts" = "Get Better Forecasts";
+"See 10 Days Ahead" = "See 10 Days Ahead";
+"See 72 Hours Ahead" = "See 72 Hours Ahead";
+"Pick from 18 Themes" = "Pick from 18 Themes";
+"Animated HD Radar" = "Animated HD Radar";
+"Add Moon Phases" = "Add Moon Phases";
+"Add Widget Graph" = "Add Widget Graph";
+"Free Trial" = "Free Trial";
+"Save (PERCENTAGE) Now" = "Save (PERCENTAGE) Now";
+
+// Onboarding - Subscription Terms
+
+"✓ No Commitment   ✓ Cancel Anytime
+
+After the free trial this subscription automatically renews at monthly or annual price. If you choose to purchase, payment will not be charged to your iTunes account until 24-hours before the end of the current period. Auto-renewal may be turned off at any time in Settings. Already subscribed? Restore Purchases below or in Settings.
+" = "✓ No Commitment   ✓ Cancel Anytime
+
+After the free trial this subscription automatically renews at monthly or annual price. If you choose to purchase, payment will not be charged to your iTunes account until 24-hours before the end of the current period. Auto-renewal may be turned off at any time in Settings. Already subscribed? Restore Purchases below or in Settings.
+";
+
+"
+✓ No Commitment   ✓ Cancel Anytime
+
+After the (MONTHLYTRIAL) free trial this subscription automatically renews for (PRICE) per month unless it is canceled at least 24 hours before the end of the trial. Your Apple ID will be charged upon the end of the trial period. You can manage and cancel your subscriptions by going to your account settings in the App Store. Already subscribed? Restore Purchases below or in Settings.
+" = "
+✓ No Commitment   ✓ Cancel Anytime
+
+After the (MONTHLYTRIAL) free trial this subscription automatically renews for (PRICE) per month unless it is canceled at least 24 hours before the end of the trial. Your Apple ID will be charged upon the end of the trial period. You can manage and cancel your subscriptions by going to your account settings in the App Store. Already subscribed? Restore Purchases below or in Settings.
+"; // per month - ignore all in (parentheses)
+
+"
+✓ No Commitment   ✓ Cancel Anytime
+
+After the (YEARLYTRIAL) free trial this subscription automatically renews for (PRICE) per year unless it is canceled at least 24 hours before the end of the trial. Your Apple ID will be charged upon the end of the trial period. You can manage and cancel your subscriptions by going to your account settings in the App Store. Already subscribed? Restore Purchases below or in Settings.
+" = "
+✓ No Commitment   ✓ Cancel Anytime
+
+After the (YEARLYTRIAL) free trial this subscription automatically renews for (PRICE) per year unless it is canceled at least 24 hours before the end of the trial. Your Apple ID will be charged upon the end of the trial period. You can manage and cancel your subscriptions by going to your account settings in the App Store. Already subscribed? Restore Purchases below or in Settings.
+"; // per year - ignore all in (parentheses)
+
+"Your Apple ID will immediately be charged a one-time payment of (PRICE)." = "Your Apple ID will immediately be charged a one-time payment of (PRICE)."; // ignore (PRICE)
+
+// Legacy subscription
+
+"Limited Time" = "Limited Time";
+"Special Offer" = "Special Offer";
+"Accept Special Offer" = "Accept Special Offer";
+"No Thanks" = "No Thanks";
+"Thanks for your support!" = "Thanks for your support!";
+"50% off" = "50% off";
+"Discounted first year" = "Discounted first year";
+"Then regular annual price" = "Then regular annual price";
+"Then (PRICE) per (PERIOD)" = "Then (PRICE) per (PERIOD)"; // i.e "Then $20.99 per year."
+
+// Ads
+
+"Remove Ads" = "Remove Ads";
+"+21 more features" = "+21 more features";
+"Try 7 days free" = "Try 7 days free";
+
+// Special Cases
+
+"From Deepak and Ryan" = "From Deepak and Ryan";
+"Since 2015, we‘ve lost money – every time you check the weather <strong>we pay our data suppliers</strong> and we lacked ongoing income to pay ongoing expenses. We paid for our mistake by using personal savings to stay afloat instead of WL1 shutting down or changing to subscription, while building WL2 into <strong>as big of an upgrade as possible</strong>. We built WL2 for two years to make sure we over-delivered on new features in a worthy upgrade. To see the new features and redeem <strong>a discount for WL1 users</strong>, tap Continue. <discount>Tap “Weather Line 1 User?” on the payment screen to authenticate for a discount</discount>
+" = "Since 2015, we‘ve lost money – every time you check the weather <strong>we pay our data suppliers</strong> and we lacked ongoing income to pay ongoing expenses. We paid for our mistake by using personal savings to stay afloat instead of WL1 shutting down or changing to subscription, while building WL2 into <strong>as big of an upgrade as possible</strong>. We built WL2 for two years to make sure we over-delivered on new features in a worthy upgrade. To see the new features and redeem <strong>a discount for WL1 users</strong>, tap Continue. <discount>Tap “Weather Line 1 User?” on the payment screen to authenticate for a discount</discount>
+"; // ignore all <tags></tags>
+
+"Weather Line is made by Ryan Jones and Deepak Mantena in Austin, TX and Portland, OR. \n\nMany thanks to Kevin Clark, Brad Ellis, Mircea Grelus, Oz Michaeli, and our lovely and tireless beta testers." = "Weather Line is made by Ryan Jones and Deepak Mantena in Austin, TX and Portland, OR. \n\nMany thanks to Kevin Clark, Brad Ellis, Mircea Grelus, Oz Michaeli, and our lovely and tireless beta testers.";
+"Terms of Use" = "Terms of Use";
+"Privacy Policy" = "Privacy Policy";
