@@ -22,6 +22,6 @@ Last updated May 3, 2020
 | Italian | it-IT | Translator Needed | Translator Needed |
 | Polish | pl-PL | Translator Needed | Translator Needed |
 | Portuguese | pt-PT | Translator Needed | Translator Needed |
-| Spanish | es-ES | Translator Needed | Translator Needed |
+| Spanish | es-ES | 🚧 Daniel C | 🚧 Daniel C |
 | Simplified Chinese | zh-CN | Translator Needed | Translator Needed |
 | Japanese | ja-JP | Translator Needed | Translator Needed |a
