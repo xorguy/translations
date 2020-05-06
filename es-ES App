@@ -17,59 +17,59 @@
 // General - App
 
 "WeatherLine" = "Weather Line";
-"Settings" = "Settings";
+"Settings" = "Ajustes";
 "Done" = "Done";
-"Cancel" = "Cancel";
+"Cancel" = "Cancelar";
 "On" = "On";
 "Off" = "Off";
 "–" = "–";
-"None" = "None";
+"None" = "Ninguno";
 "Reset" = "Reset";
-"Skip" = "Skip";
+"Skip" = "Omitir";
 "By" = "By";
-"Of" = "Of"; // as in 1 of 3 pages
+"Of" = "de"; // as in 1 of 3 pages
 
 "Report a Bug" = "Report a Bug";
 "Report a Data Problem" = "Report a Data Problem";
 "Request a Feature" = "Request a Feature";
 "Ask a Question" = "Ask a Question";
-"Cancel" = "Cancel";
+"Cancel" = "Cancelar";
 
-"Rename" = "Rename";
-"Continue" = "Continue";
-"Never" = "Never";
-"Status" = "Status";
+"Rename" = "Renombrar";
+"Continue" = "Continuar";
+"Never" = "Nunca";
+"Status" = "Estado";
 "Manage" = "Manage";
-"Type" = "Type"; // as in type of something (noun), not action to type (verb)
+"Type" = "Tipo"; // as in type of something (noun), not action to type (verb)
 "Expires" = "Expires";
 "RestorePurchases" = "Restore Purchases";
-"Upgrade To" = "Upgrade To";
+"Upgrade To" = "Actualizar a";
 
 "What's New in Weather Line" = "What's New\nin Weather Line";
 "What's New" = "What's New";
 
 // General - Time-based
 
-"Hours" = "Hours";
-"Hour" = "Hour";
-"Day" = "Day";
-"Days" = "Days";
-"Week" = "Week";
-"Weeks" = "Weeks";
-"Month" = "Month";
-"Months" = "Months";
+"Hours" = "Horas";
+"Hour" = "Hora";
+"Day" = "Día";
+"Days" = "Días";
+"Week" = "Semana";
+"Weeks" = "Semanas";
+"Month" = "Mes";
+"Months" = "Meses";
 
 "Hourly" = "Hourly";
-"Daily" = "Daily";
+"Daily" = "Diario";
 
 "AddMyLocation" = "Add My Location";
 
 // Toasts - Forecast Refreshing
 
-"Updating" = "Updating...";
-"LastUpdated" = "Last updated";
-"Offline" = "Offline";
-"Unknown" = "Unknown";
+"Updating" = "Actualizando...";
+"LastUpdated" = "Última conexión";
+"Offline" = "Sin conexión";
+"Unknown" = "Desconocido";
 
 // Settings
 
