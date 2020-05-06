@@ -13,14 +13,14 @@ The purpose of this directory is to translate [Weather Line](https://apps.apple.
 
 # Status
 
-|Language | Code | App Text | App Store Text |
-|--------------|----------|----------------|-----------------|
+|Language | Code | App Text | App Store Text | Reviewers
+|--------------|----------|----------------|-----------------|--------|
 | English | en-US | ✅ | ✅ |
-| French | fr-FR | 🚧 @textoraxel | 🚧 @textoraxel |
-| German | de-DE | 🚧 Samuel B | 🚧 Samuel B  |
+| French | fr-FR | 🚧 @textoraxel | 🚧 @textoraxel | [@nildeala](https://twitter.com/Nildeala) 
+| German | de-DE | 🚧 Samuel B | 🚧 Samuel B  | [@thechriiiistoph](https://twitter.com/thechriiistoph)
 | Italian | it-IT | Translator Needed | Translator Needed |
-| Polish | pl-PL | Translator Needed | Translator Needed |
+| Polish | pl-PL | 🚧 [@piotr_nowakk](https://twitter.com/piotr_nowakk) | 🚧 [@piotr_nowakk](https://twitter.com/piotr_nowakk) |
 | Portuguese | pt-PT | 🚧 @maique | 🚧 @maique |
 | Spanish | es-ES | 🚧 Daniel C | 🚧 Daniel C |
 | Simplified Chinese | zh-CN | Translator Needed | Translator Needed |
-| Japanese | ja-JP | Translator Needed | Translator Needed |a
+| Japanese | ja-JP | Translator Needed | Translator Needed | 
