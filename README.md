@@ -18,11 +18,11 @@ The purpose of this directory is to translate [Weather Line](https://apps.apple.
 |--------------|----------|----------------|-----------------|--------|
 | English | en-US | ✅ | ✅ |
 | French | fr-FR | 🚧 [@textoraxel](https://twitter.com/Textoraxel) | 🚧 [@textoraxel](https://twitter.com/Textoraxel) | [@nildeala](https://twitter.com/Nildeala) 
-| German | de-DE | 🚧 Samuel B | 🚧 Samuel B  | [@thechriiiistoph](https://twitter.com/thechriiistoph) [@Danneh_K](https://twitter.com/Danneh_K) [@pichfl](https://twitter.com/pichfl)
+| German | de-DE | 🚧 [Samuel B](mailto:samuelbarton@posteo.net) | 🚧 [Samuel B](mailto:samuelbarton@posteo.net) | [@thechriiiistoph](https://twitter.com/thechriiistoph) [@Danneh_K](https://twitter.com/Danneh_K) [@pichfl](https://twitter.com/pichfl)
 | Italian | it-IT | 🚧 [@darklink88](https://twitter.com/darklink88) | 🚧 [@darklink88](https://twitter.com/darklink88) |
 | Polish | pl-PL | 🚧 [@piotr_nowakk](https://twitter.com/piotr_nowakk) | 🚧 [@piotr_nowakk](https://twitter.com/piotr_nowakk) | [Maciej W](mailto:maciej.winiarski@me.com)
 | Portuguese | pt-PT | 🚧 [@maique](https://twitter.com/maique) | 🚧 [@maique](https://twitter.com/maique) |
-| Spanish | es-ES | 🚧 Daniel C | 🚧 Daniel C | [@vsolefe](https://twitter.com/vsolefe)
+| Spanish | es-ES | 🚧 [Daniel C](mailto:dcarrascosa@gmail.com) | 🚧 [Daniel C](mailto:dcarrascosa@gmail.com) | [@vsolefe](https://twitter.com/vsolefe)
 | Simplified Chinese | zh-CN | Translator Needed | Translator Needed |
 | Japanese | ja-JP | Translator Needed | Translator Needed | 
 | Swedish | sv-SE | 🚧 [@jszotten](https://twitter.com/jszotten) | 🚧 [@jszotten](https://twitter.com/jszotten)
