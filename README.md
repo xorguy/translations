@@ -16,11 +16,11 @@ The purpose of this directory is to translate [Weather Line](https://apps.apple.
 |Language | Code | App Text | App Store Text | Reviewers
 |--------------|----------|----------------|-----------------|--------|
 | English | en-US | ✅ | ✅ |
-| French | fr-FR | 🚧 @textoraxel | 🚧 @textoraxel | [@nildeala](https://twitter.com/Nildeala) 
+| French | fr-FR | 🚧 [@textoraxel](https://twitter.com/Textoraxel) | 🚧 [@textoraxel](https://twitter.com/Textoraxel) | [@nildeala](https://twitter.com/Nildeala) 
 | German | de-DE | 🚧 Samuel B | 🚧 Samuel B  | [@thechriiiistoph](https://twitter.com/thechriiistoph) [@Danneh_K](https://twitter.com/Danneh_K) [@pichfl](https://twitter.com/pichfl)
 | Italian | it-IT | 🚧 [@darklink88](https://twitter.com/darklink88) | 🚧 [@darklink88](https://twitter.com/darklink88) |
 | Polish | pl-PL | 🚧 [@piotr_nowakk](https://twitter.com/piotr_nowakk) | 🚧 [@piotr_nowakk](https://twitter.com/piotr_nowakk) |
-| Portuguese | pt-PT | 🚧 @maique | 🚧 @maique |
+| Portuguese | pt-PT | 🚧 [@maique](https://twitter.com/maique) | 🚧 [@maique](https://twitter.com/maique) |
 | Spanish | es-ES | 🚧 Daniel C | 🚧 Daniel C | [@vsolefe](https://twitter.com/vsolefe)
 | Simplified Chinese | zh-CN | Translator Needed | Translator Needed |
 | Japanese | ja-JP | Translator Needed | Translator Needed | 
