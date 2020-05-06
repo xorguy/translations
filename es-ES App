@@ -67,7 +67,7 @@
 // Toasts - Forecast Refreshing
 
 "Updating" = "Actualizando...";
-"LastUpdated" = "Última conexión";
+"LastUpdated" = "Última actualización";
 "Offline" = "Sin conexión";
 "Unknown" = "Desconocido";
 
@@ -89,9 +89,9 @@
 "WeatherDataTitle" = "Data Source";
 "ManageRadarTitle" = "Radar";
 "MoonPhasesTitle" = "Moon Phases";
-"ManageUnitsTitle" = "Units";
+"ManageUnitsTitle" = "Unidades";
 "ManageTemperatureTitle" = "Temperature Type";
-"Legend" = "Legend";
+"Legend" = "Leyenda";
 "ContactUs" = "Contact Us";
 "RateWeatherLine" = "Rate App";
 "ShareApp" = "Share App";
@@ -102,7 +102,7 @@
 
 // Settings section headers
 
-"Locations" = "Locations";
+"Locations" = "Ubicaciones";
 "Appearance" = "Appearance";
 "Other" = "Other";
 
@@ -130,7 +130,7 @@
 "Standard" = "Standard";
 "Muted Standard" = "Muted Standard";
 "Satellite" = "Satellite";
-"Hybrid" = "Hybrid";
+"Hybrid" = "Híbrido";
 "Automatically When Loaded" = "Automatically When Loaded";
 "When Tapped" = "When Tapped";
 "Automatically" = "Automatically";
@@ -153,7 +153,7 @@
 "Map Style" = "Map Style";
 "Show Map Pin" = "Show Map Pin";
 "Animation Preview" = "Animation Preview";
-"Preview" = "Preview";
+"Preview" = "Vista previa";
 
 "Show Moon Phases" = "Show Moon Phases";
 
@@ -166,7 +166,7 @@
 "LocationAccess-CouldntDetermineTitle" = "Couldn’t Determine Location";
 "LocationAccess-CouldntDetermineMessage" = "Ensure location access is enabled in Settings and try again.";
 "Automatic" = "Automatic";
-"Saved" = "Saved";
+"Saved" = "Guardado";
 "AddLocationSearchMessage" = "Enter street address, city, zip code, or airport.";
 "AddLocationListLocationMessage" = "Where on your saved list should new locations be added?";
 
@@ -209,18 +209,18 @@
 
 // Month Names - Long
 
-"January" = "January";
-"February" = "February";
-"March" = "March";
-"April" = "April";
-"May" = "May";
-"June" = "June";
-"July" = "July";
-"August" = "August";
-"September" = "September";
-"October" = "October";
-"November" = "November";
-"December" = "December";
+"January" = "Enero";
+"February" = "Febrero";
+"March" = "Marzo";
+"April" = "Abril";
+"May" = "Mayo";
+"June" = "Junio";
+"July" = "Julio";
+"August" = "Agosto";
+"September" = "Septiembre";
+"October" = "Octubre";
+"November" = "Noviembre";
+"December" = "Diciembre";
 
 // Month Names - Short
 
@@ -248,10 +248,10 @@
 "Snow" = "Snow";
 "Sleet" = "Sleet";
 "DewPoint" = "Dew Point";
-"Humidity" = "Humidity";
+"Humidity" = "Humedad";
 "Sunrise" = "Sunrise";
 "Sunset" = "Sunset";
-"Wind" = "Wind";
+"Wind" = "Viento";
 "UVIndex" = "UV Index";
 "CloudCover" = "Cloud Cover";
 "AvgHigh" = "Average High";
@@ -267,8 +267,8 @@
 
 // Forecast - Times
 
-"Now" = "Now";
-"Today" = "Today";
+"Now" = "Ahora";
+"Today" = "Hoy";
 "Average" = "Average";
 
 "Yr" = "Yr";
