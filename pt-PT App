@@ -74,17 +74,17 @@
 // Settings
 
 "UpgradeToSuperchargeTitle" = "Upgrade to Supercharge";
-"EmptyLocationList-Header" = "No Locations";
-"EmptyLocationList-Message" = "Use the top menu to add a location";
-"AddANewLocation" = "Add a new location";
-"DeleteALocation" = "Delete an existing location to add a new one";
-"ManageLocationsTitle" = "Locations";
+"EmptyLocationList-Header" = "Sem Locais";
+"EmptyLocationList-Message" = "Use o menu no topo para acrescentar local";
+"AddANewLocation" = "Acrescentar novo local";
+"DeleteALocation" = "Apagar local existente para acrescentar um novo";
+"ManageLocationsTitle" = "Locais";
 "WidgetTitle" = "Widget";
 "LaunchMode" = "Launch Style";
-"ManageAdsTitle" = "Ads";
-"ManageAccountTitle" = "Subscription";
-"ManageThemeTitle" = "Theme";
-"AppIconTitle" = "App Icon";
+"ManageAdsTitle" = "Anúncios";
+"ManageAccountTitle" = "Assinatura";
+"ManageThemeTitle" = "Tema";
+"AppIconTitle" = "Ícone da aplicação";
 "WeatherData" = "Weather Data";
 "WeatherDataTitle" = "Data Source";
 "ManageRadarTitle" = "Radar";
