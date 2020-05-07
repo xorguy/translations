@@ -24,9 +24,9 @@
 "Off" = "Off";
 "–" = "–";
 "None" = "Ninguno";
-"Reset" = "Reset";
+"Reset" = "Restablecer";
 "Skip" = "Omitir";
-"By" = "By";
+"By" = "Por";
 "Of" = "de"; // as in 1 of 3 pages
 
 "Report a Bug" = "Report a Bug";
@@ -39,10 +39,10 @@
 "Continue" = "Continuar";
 "Never" = "Nunca";
 "Status" = "Estado";
-"Manage" = "Manage";
+"Manage" = "Administrar";
 "Type" = "Tipo"; // as in type of something (noun), not action to type (verb)
-"Expires" = "Expires";
-"RestorePurchases" = "Restore Purchases";
+"Expires" = "Expira";
+"RestorePurchases" = "Restablecer compras";
 "Upgrade To" = "Actualizar a";
 
 "What's New in Weather Line" = "What's New\nin Weather Line";
@@ -62,7 +62,7 @@
 "Hourly" = "Hourly";
 "Daily" = "Diario";
 
-"AddMyLocation" = "Add My Location";
+"AddMyLocation" = "Añadir mi ubicación";
 
 // Toasts - Forecast Refreshing
 
@@ -76,26 +76,26 @@
 "UpgradeToSuperchargeTitle" = "Upgrade to Supercharge";
 "EmptyLocationList-Header" = "No Locations";
 "EmptyLocationList-Message" = "Use the top menu to add a location";
-"AddANewLocation" = "Add a new location";
+"AddANewLocation" = "Añadir nueva ubicación";
 "DeleteALocation" = "Delete an existing location to add a new one";
-"ManageLocationsTitle" = "Locations";
+"ManageLocationsTitle" = "Ubicaciones";
 "WidgetTitle" = "Widget";
 "LaunchMode" = "Launch Style";
-"ManageAdsTitle" = "Ads";
-"ManageAccountTitle" = "Subscription";
-"ManageThemeTitle" = "Theme";
+"ManageAdsTitle" = "Anuncios";
+"ManageAccountTitle" = "Subscripción";
+"ManageThemeTitle" = "Tema";
 "AppIconTitle" = "App Icon";
 "WeatherData" = "Weather Data";
 "WeatherDataTitle" = "Data Source";
 "ManageRadarTitle" = "Radar";
-"MoonPhasesTitle" = "Moon Phases";
+"MoonPhasesTitle" = "Fases lunares";
 "ManageUnitsTitle" = "Unidades";
 "ManageTemperatureTitle" = "Temperature Type";
 "Legend" = "Leyenda";
 "ContactUs" = "Contact Us";
 "RateWeatherLine" = "Rate App";
-"ShareApp" = "Share App";
-"FollowWeatherLine" = "Follow Us";
+"ShareApp" = "Compartir App";
+"FollowWeatherLine" = "Síguenos";
 "ManageSubscription" = "Manage Subscription";
 "Acknowledgments" = "Acknowledgments";
 "ShowWalkthrough" = "Show App Walkthrough";
@@ -103,8 +103,8 @@
 // Settings section headers
 
 "Locations" = "Ubicaciones";
-"Appearance" = "Appearance";
-"Other" = "Other";
+"Appearance" = "Apariencia";
+"Other" = "Otros";
 
 // Settings subpages
 
@@ -269,16 +269,16 @@
 
 "Now" = "Ahora";
 "Today" = "Hoy";
-"Average" = "Average";
+"Average" = "Media";
 
 "Yr" = "Yr";
 "mins" = "mins"; // as in minutes
 "min" = "min"; // as in minute
-"more" = "more";
-"More" = "More";
+"more" = "más";
+"More" = "Más";
 "Weather Alert" = "Weather Alert";
 "Weather Alerts" = "Weather Alerts";
-"Expires" = "Expires";
+"Expires" = "Expira";
 "at" = "at";
 "Noon" = "Noon";
 
@@ -355,11 +355,11 @@
 "Share..." = "Share...";
 "ShareForecast" = "Share Forecast";
 "ReportADataProblem" = "Report a Data Problem";
-"AffectedAreas" = "Affected Areas";
+"AffectedAreas" = "Áreas afectadas";
 "OpenAlertWebsite" = "Open Alert Website";
-"Share" = "Share";
-"EmailUs" = "Email Us";
-"OpenMail" = "Open Mail";
+"Share" = "Compartir";
+"EmailUs" = "Escríbenos";
+"OpenMail" = "Abrir Correo";
 "EmailUs-Message" = "Please contact us at team@weatherlineapp.com.";
 
 // Travel Assist
@@ -502,7 +502,7 @@ After the (YEARLYTRIAL) free trial this subscription automatically renews for (P
 "Limited Time" = "Limited Time";
 "Special Offer" = "Special Offer";
 "Accept Special Offer" = "Accept Special Offer";
-"No Thanks" = "No Thanks";
+"No Thanks" = "No gracias";
 "Thanks for your support!" = "Thanks for your support!";
 "50% off" = "50% off";
 "Discounted first year" = "Discounted first year";
@@ -511,7 +511,7 @@ After the (YEARLYTRIAL) free trial this subscription automatically renews for (P
 
 // Ads
 
-"Remove Ads" = "Remove Ads";
+"Remove Ads" = "Eliminar auncios";
 "+21 more features" = "+21 more features";
 "Try 7 days free" = "Try 7 days free";
 
@@ -523,5 +523,5 @@ After the (YEARLYTRIAL) free trial this subscription automatically renews for (P
 "; // ignore all <tags></tags>
 
 "Weather Line is made by Ryan Jones and Deepak Mantena in Austin, TX and Portland, OR. \n\nMany thanks to Kevin Clark, Brad Ellis, Mircea Grelus, Oz Michaeli, and our lovely and tireless beta testers." = "Weather Line is made by Ryan Jones and Deepak Mantena in Austin, TX and Portland, OR. \n\nMany thanks to Kevin Clark, Brad Ellis, Mircea Grelus, Oz Michaeli, and our lovely and tireless beta testers.";
-"Terms of Use" = "Terms of Use";
-"Privacy Policy" = "Privacy Policy";
+"Terms of Use" = "Términos de uso";
+"Privacy Policy" = "Política de privacidad";
