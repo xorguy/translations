@@ -17,59 +17,59 @@
 // General - App
 
 "WeatherLine" = "Weather Line";
-"Settings" = "Settings";
-"Done" = "Done";
-"Cancel" = "Cancel";
-"On" = "On";
-"Off" = "Off";
+"Settings" = "Definições";
+"Done" = "Concluído";
+"Cancel" = "Cancelar";
+"On" = "Ligado";
+"Off" = "Desligado";
 "–" = "–";
-"None" = "None";
-"Reset" = "Reset";
-"Skip" = "Skip";
-"By" = "By";
-"Of" = "Of"; // as in 1 of 3 pages
+"None" = "Nenhum";
+"Reset" = "Repor";
+"Skip" = "Saltar";
+"By" = "Por";
+"Of" = "De"; // as in 1 of 3 pages
 
-"Report a Bug" = "Report a Bug";
-"Report a Data Problem" = "Report a Data Problem";
-"Request a Feature" = "Request a Feature";
-"Ask a Question" = "Ask a Question";
-"Cancel" = "Cancel";
+"Report a Bug" = "Comunicar um erro";
+"Report a Data Problem" = "Comunicar um erro de dados";
+"Request a Feature" = "Solicitar uma funcionalidade";
+"Ask a Question" = "Colocar uma questão";
+"Cancel" = "Cancelar";
 
-"Rename" = "Rename";
-"Continue" = "Continue";
-"Never" = "Never";
-"Status" = "Status";
-"Manage" = "Manage";
-"Type" = "Type"; // as in type of something (noun), not action to type (verb)
-"Expires" = "Expires";
-"RestorePurchases" = "Restore Purchases";
+"Rename" = "Renomear";
+"Continue" = "Continuar";
+"Never" = "Nunca";
+"Status" = "Estado";
+"Manage" = "Gerir";
+"Type" = "Tipo"; // as in type of something (noun), not action to type (verb)
+"Expires" = "Expira";
+"RestorePurchases" = "Restaurar Compras";
 "Upgrade To" = "Upgrade To";
 
-"What's New in Weather Line" = "What's New\nin Weather Line";
-"What's New" = "What's New";
+"What's New in Weather Line" = "O que é novo\nem Weather Line";
+"What's New" = "O que é novo";
 
 // General - Time-based
 
-"Hours" = "Hours";
-"Hour" = "Hour";
-"Day" = "Day";
-"Days" = "Days";
-"Week" = "Week";
-"Weeks" = "Weeks";
-"Month" = "Month";
-"Months" = "Months";
+"Hours" = "Horas";
+"Hour" = "Hora";
+"Day" = "Dia";
+"Days" = "Dias";
+"Week" = "Semana";
+"Weeks" = "Semanas";
+"Month" = "Mês";
+"Months" = "Meses";
 
-"Hourly" = "Hourly";
-"Daily" = "Daily";
+"Hourly" = "De hora em hora";
+"Daily" = "Diariamente";
 
-"AddMyLocation" = "Add My Location";
+"AddMyLocation" = "Acrescentar a minha localização";
 
 // Toasts - Forecast Refreshing
 
-"Updating" = "Updating...";
-"LastUpdated" = "Last updated";
-"Offline" = "Offline";
-"Unknown" = "Unknown";
+"Updating" = "Actualizando...";
+"LastUpdated" = "Última actualização";
+"Offline" = "Desligado";
+"Unknown" = "Desconhecido";
 
 // Settings
 
