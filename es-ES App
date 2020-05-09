@@ -323,7 +323,7 @@
 "Sandstorm" = "Tormenta de arena";
 
 "Most Common" = "Más común";
-"Extra Hot" = "Extra Hot";
+"Extra Hot" = "Muy caluroso";
 "Precipitation" = "Precipitación";
 "Clear Night" = "Noche clara";
 "Cloudy Night" = "Noche nublada";
@@ -430,9 +430,9 @@
 // Onboarding
 
 "Let’s go" = "Let’s go";
-"Next" = "Next";
+"Next" = "Siguiente";
 "Industry First" = "Industry First";
-"Weather Line 1 User?" = "Weather Line 1 User?";
+"Weather Line 1 User?" = "¿Usuario de Weather Line 1?";
 "All-new design, themes, and more..." = "All-new design, themes, and more...";
 "Our innovative weather line" = "Our innovative weather line";
 "Turned up to 100°" = "Turned up to 100°";
@@ -444,26 +444,26 @@
 // Onboarding - Benefits Table
 
 "Animated Radar" = "Animated Radar";
-"Remove Ads" = "Remove Ads";
-"18 Themes" = "18 Themes";
-"And much more..." = "And much more...";
-"Extended 10-Day Forecast" = "Extended 10-Day Forecast";
-"Down-To-The-Minute Precipitation" = "Down-To-The-Minute Precipitation";
-"Over 50 App Icons" = "Over 50 App Icons";
+"Remove Ads" = "Eliminar anuncios";
+"18 Themes" = "18 temas";
+"And much more..." = "Y mucho más...";
+"Extended 10-Day Forecast" = "Pronóstico extendido de 10 días";
+"Down-To-The-Minute Precipitation" = "Precipitación al minuto";
+"Over 50 App Icons" = "Más de 50 iconos de aplicación";
 "Today Widget Graph and Themes" = "Today Widget Graph and Themes";
 "Extended 72-Hour Forecast" = "Extended 72-Hour Forecast";
-"Moon Phases" = "Moon Phases";
-"Up to 10 Locations" = "Up to 10 Locations";
+"Moon Phases" = "Fases lunares";
+"Up to 10 Locations" = "Hasta 10 ubicaciones";
 
-"Get Better Forecasts" = "Get Better Forecasts";
+"Get Better Forecasts" = "Obtén mejores pronósticos";
 "See 10 Days Ahead" = "See 10 Days Ahead";
 "See 72 Hours Ahead" = "See 72 Hours Ahead";
-"Pick from 18 Themes" = "Pick from 18 Themes";
-"Animated HD Radar" = "Animated HD Radar";
-"Add Moon Phases" = "Add Moon Phases";
-"Add Widget Graph" = "Add Widget Graph";
-"Free Trial" = "Free Trial";
-"Save (PERCENTAGE) Now" = "Save (PERCENTAGE) Now";
+"Pick from 18 Themes" = "Escoge entre 18 temas";
+"Animated HD Radar" = "Radar HD animado";
+"Add Moon Phases" = "Añade fases lunares";
+"Add Widget Graph" = "Añade gráfico al Widget";
+"Free Trial" = "Prueba gratis";
+"Save (PERCENTAGE) Now" = "Ahorra un (PERCENTAGE) ahora";
 
 // Onboarding - Subscription Terms
 
@@ -499,21 +499,21 @@ After the (YEARLYTRIAL) free trial this subscription automatically renews for (P
 
 // Legacy subscription
 
-"Limited Time" = "Limited Time";
-"Special Offer" = "Special Offer";
-"Accept Special Offer" = "Accept Special Offer";
+"Limited Time" = "Tiempo limitado";
+"Special Offer" = "Oferta especial";
+"Accept Special Offer" = "Aceptar oferta especial";
 "No Thanks" = "No gracias";
-"Thanks for your support!" = "Thanks for your support!";
-"50% off" = "50% off";
-"Discounted first year" = "Discounted first year";
-"Then regular annual price" = "Then regular annual price";
-"Then (PRICE) per (PERIOD)" = "Then (PRICE) per (PERIOD)"; // i.e "Then $20.99 per year."
+"Thanks for your support!" = "Gracias por tu apoyo!";
+"50% off" = "50% de decuento";
+"Discounted first year" = "Descuento en el primer año";
+"Then regular annual price" = "Después precio anual normal";
+"Then (PRICE) per (PERIOD)" = "Despues (PRICE) por (PERIOD)"; // i.e "Then $20.99 per year."
 
 // Ads
 
 "Remove Ads" = "Eliminar auncios";
-"+21 more features" = "+21 more features";
-"Try 7 days free" = "Try 7 days free";
+"+21 more features" = "+21 características";
+"Try 7 days free" = "Prueba 7 días gratis";
 
 // Special Cases
 
