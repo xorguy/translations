@@ -388,33 +388,33 @@
 "SuperForecast-LegacyProvider" = "Super Forecast Legacy";
 "Free" = "Free";
 
-"Subscription-CantMakePurchasesTitle" = "Purchases Not Allowed";
+"Subscription-CantMakePurchasesTitle" = "Compras ko permitidas";
 "Subscription-CantMakePurchasesMessage" = "This device is not authorized to make purchases. Sign into the App Store with an authorized account and try again.";
 "Subscription-PurchaseFailedTitle" = "Purchase Failed";
 "Subscription-PurchaseFailedMessage" = "Unable to complete your purchase. Please try again. ((ERR))"; // localize up to ((ERR))
 "Subscription-PurchaseFailedGenericMessage" = "Unable to complete your purchase. Please try again.";
-"Subscription-SuccessTitle" = "(SC) Unlocked"; // ignore (SC)
+"Subscription-SuccessTitle" = "(SC) Desbloqueado"; // ignore (SC)
 "Subscription-SuccessMessage" = "All features have been unlocked and ads have been turned off.";
-"Subscription-NoPreviousPurchasesTitle" = "Restore Purchases";
-"Subscription-NoPreviousPurchasesMessage" = "No previous purchases found.";
+"Subscription-NoPreviousPurchasesTitle" = "Restaurar compras";
+"Subscription-NoPreviousPurchasesMessage" = "Compras anteriores no encontradas.";
 "Subscription-LegacyCheckTitle" = "Verification Required";
 "Subscription-LegacyCheckMessage" = "You may be asked to login with your Apple ID to confirm you were a Weather Line 1 user.";
 
-"Subscription-LegacyFailureTitle" = "Not Available";
+"Subscription-LegacyFailureTitle" = "No disponible";
 "Subscription-LegacyFailureWL1Message" = "It appears that you were not a Weather Line 1 user.\n\nIf you believe this is an error, please try again or contact us.";
 "Subscription-LegacyFailureIntroMessage" = "It appears that you have previously subscribed to Weather Line 2.\n\nIf you believe this is an error, please try again or contact us.";
 "Subscription-LegacyFailureGeneralMessage" = "It appears that you were not a Weather Line 1 user or have previously subscribed to Weather Line 2.\n\nIf you believe this is an error, please try again or contact us.";
 
-"Subscription-ExpirationTitle" = "Subscription Expired";
+"Subscription-ExpirationTitle" = " Subscripción caducada";
 "Subscription-ExpirationMessage" = "It appears that your (SC) subscription has expired. To unlock all features and remove ads, subscribe again at any time."; // ignore (SC)
 
-"ManageSubscriptionPlan-Lifetime" = "(SC) (Lifetime)"; // just localize Lifetime
-"ManageSubscriptionPlan-Free" = "Not (SC)"; // just localize Not
-"ManageSubscriptionPlan-Annual" = "(SC) (Annual)"; // just localize Annual
-"ManageSubscriptionPlan-Monthly" = "(SC) (Monthly)"; // just localize Monthly
+"ManageSubscriptionPlan-Lifetime" = "(SC) (De por vida)"; // just localize Lifetime
+"ManageSubscriptionPlan-Free" = "No (SC)"; // just localize Not
+"ManageSubscriptionPlan-Annual" = "(SC) (Anual)"; // just localize Annual
+"ManageSubscriptionPlan-Monthly" = "(SC) (Mensual)"; // just localize Monthly
 "ManageSubscriptionPlan-Promo" = "(SC) (Promo)"; // just localize Promo
 
-"PrecipitationUnlock" = "Unlock real-time precipitation";
+"PrecipitationUnlock" = "Desbloquea precipitació en tiempo real.";
 
 // Sharing Forecasts
 
@@ -438,7 +438,7 @@
 "Turned up to 100°" = "Turned up to 100°";
 "For your home weather" = "For your home weather";
 "Travel Assist automatically manages displaying your home weather while you travel." = "Travel Assist automatically manages displaying your home weather while you travel.";
-"Make it yours" = "Make it yours";
+"Make it yours" = " Hazlo tuyo";
 "Choose from 18 themes, over 50 app icons, and 4 different dark modes." = "Choose from 18 themes, over 50 app icons, and 4 different dark modes.";
 
 // Onboarding - Benefits Table
@@ -451,7 +451,7 @@
 "Down-To-The-Minute Precipitation" = "Precipitación al minuto";
 "Over 50 App Icons" = "Más de 50 iconos de aplicación";
 "Today Widget Graph and Themes" = "Today Widget Graph and Themes";
-"Extended 72-Hour Forecast" = "Extended 72-Hour Forecast";
+"Extended 72-Hour Forecast" = "Pronóstico extendido de 72 horas";
 "Moon Phases" = "Fases lunares";
 "Up to 10 Locations" = "Hasta 10 ubicaciones";
 
@@ -502,7 +502,7 @@ After the (YEARLYTRIAL) free trial this subscription automatically renews for (P
 "Limited Time" = "Tiempo limitado";
 "Special Offer" = "Oferta especial";
 "Accept Special Offer" = "Aceptar oferta especial";
-"No Thanks" = "No gracias";
+"No Thanks" = "No, gracias";
 "Thanks for your support!" = "Gracias por tu apoyo!";
 "50% off" = "50% de decuento";
 "Discounted first year" = "Descuento en el primer año";
