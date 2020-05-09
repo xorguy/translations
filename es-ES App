@@ -163,12 +163,12 @@
 "AddLocationSearchBarPlaceholder" = "Buscar";
 "LocationAccess-NotAuthorizedTitle" = "Sin autorización";
 "LocationAccess-NotAuthorizedMessage" = "Enable location access to get forecasts for your current location.";
-"LocationAccess-CouldntDetermineTitle" = "Couldn’t Determine Location";
-"LocationAccess-CouldntDetermineMessage" = "Ensure location access is enabled in Settings and try again.";
-"Automatic" = "Automatic";
+"LocationAccess-CouldntDetermineTitle" = "No se pudo determinar la ubicación";
+"LocationAccess-CouldntDetermineMessage" = "Asegúrate que el acceso a la ubicación esté habilitado en los ajustes y prueba de nuevo.";
+"Automatic" = "Automático";
 "Saved" = "Guardado";
-"AddLocationSearchMessage" = "Enter street address, city, zip code, or airport.";
-"AddLocationListLocationMessage" = "Where on your saved list should new locations be added?";
+"AddLocationSearchMessage" = "Introduce el nombre de la calle, ciudad, código postal o aeropuerto.";
+"AddLocationListLocationMessage" = "¿En que parte de tu lista guardada deben guardarse las nuevas ubicaciones?";
 
 // Units - Long Form
 
@@ -224,63 +224,63 @@
 
 // Month Names - Short
 
-"J" = "En.";
-"F" = "Feb.";
-"M" = "Mar.";
-"A" = "Abr.";
-"S" = "Sept.";
-"O" = "Oct.";
-"N" = "Nov.";
-"D" = "Dic.";
+"J" = "E";
+"F" = "F";
+"M" = "M";
+"A" = "A";
+"S" = "S";
+"O" = "O";
+"N" = "N";
+"D" = "D";
 
 // Forecast
 
-"ForecastDataUnavailable" = "Forecast Data Currently Unavailable";
-"NoPrecipitationForTheHour" = "No precipitation for the hour";
-"Gust" = "Gust";
+"ForecastDataUnavailable" = "Datos de pronóstico no disponibles actualmente";
+"NoPrecipitationForTheHour" = "Sin precipitaciones en la próxima hora";
+"Gust" = "Ráfaga";
 "Radar" = "Radar";
-"MonthlyAverages" = "Monthly Averages";
+"MonthlyAverages" = "Promedios mensuales";
 "FeelsLike" = "Feels Like";
 "Feels Like" = "Feels Like";
 "Actual" = "Actual";
-"ActualTemp" = "Actual Temp";
-"Precipitation" = "Precipitation";
-"Snow" = "Snow";
-"Sleet" = "Sleet";
-"DewPoint" = "Dew Point";
+"ActualTemp" = "Temperatura actual";
+"Precipitation" = "Precipitación";
+"Snow" = "Nieve";
+"Sleet" = "Aguanieve";
+"DewPoint" = "Punto de rocío";
 "Humidity" = "Humedad";
-"Sunrise" = "Sunrise";
-"Sunset" = "Sunset";
+"Sunrise" = "Amanecer";
+"Sunset" = "Puesta de sol";
 "Wind" = "Viento";
-"UVIndex" = "UV Index";
+"UVIndex" = "Índice UV";
 "CloudCover" = "Cloud Cover";
-"AvgHigh" = "Average High";
-"AvgLow" = "Average Low";
-"MonthlyRain" = "Monthly Rain";
-"MonthlyRainCondensed" = "Mo. Rain";
-"DailyRain" = "Daily Rain";
-"RainDays" = "Rain Days";
-"SnowDays" = "Snow Days";
-"DryDays" = "Dry Days";
-"FogDays" = "Fog Days";
-"HoursOfSun" = "Hours of Sun";
+"AvgHigh" = "Promedio alto";
+"AvgLow" = "Promedio bajo";
+"MonthlyRain" = "Lluvia mensual";
+"MonthlyRainCondensed" = "Lluvia mens.";
+"DailyRain" = "Lluvia diaria";
+"RainDays" = "Días de lluvia";
+"SnowDays" = "Días de nieve";
+"DryDays" = "Días secos";
+"FogDays" = "Días de niebla";
+"HoursOfSun" = "Horas de sol";
 
 // Forecast - Times
 
 "Now" = "Ahora";
 "Today" = "Hoy";
-"Average" = "Media";
+"Average" = "Promedio";
 
-"Yr" = "Yr";
+"Yr" = "a";
 "mins" = "mins"; // as in minutes
 "min" = "min"; // as in minute
 "more" = "más";
 "More" = "Más";
-"Weather Alert" = "Weather Alert";
-"Weather Alerts" = "Weather Alerts";
+"Weather Alert" = "Alerta meteorológica";
+"Weather Alerts" = "Alertas meteorológicas";
 "Expires" = "Expira";
-"at" = "at";
-"Noon" = "Noon";
+"at" = "a";
+"Noon" = "Mediodía";
 
 // Forecast - Wind directions
 
@@ -295,89 +295,89 @@
 
 // Forecast - Moon phases
 
-"New" = "New";
-"Waxing Crescent" = "Waxing Crescent";
-"First Quarter" = "First Quarter";
-"Waxing Gibbous" = "Waxing Gibbous";
-"Full" = "Full";
-"Waning Gibbous" = "Waning Gibbous";
-"Last Quarter" = "Last Quarter";
-"Waning Crescent" = "Waning Crescent";
+"New" = "Luna nueva";
+"Waxing Crescent" = "Luna creciente";
+"First Quarter" = "Cuarto creciente";
+"Waxing Gibbous" = "Luna gibosa creciente";
+"Full" = "Luna llena";
+"Waning Gibbous" = "Luna gibosa menguante";
+"Last Quarter" = "Cuarto menguante";
+"Waning Crescent" = "Luna menguante";
 
 // Forecast - Conditions
 
-"Clear" = "Clear";
-"Rain" = "Rain";
-"Snow" = "Snow";
-"Sleet" = "Sleet";
-"Windy" = "Windy";
-"Fog" = "Fog";
-"Partly Cloudy" = "Partly Cloudy";
-"Mostly Cloudy" = "Mostly Cloudy";
-"Hail" = "Hail";
-"Icy" = "Icy";
-"Cloudy" = "Cloudy";
+"Clear" = "Claro";
+"Rain" = "Lluvia";
+"Snow" = "Nieve";
+"Sleet" = "Aguanieve";
+"Windy" = "Ventoso";
+"Fog" = "Niebla";
+"Partly Cloudy" = "Parcialmente nublado";
+"Mostly Cloudy" = "Mayormente nublado";
+"Hail" = "Granizo";
+"Icy" = "Helada";
+"Cloudy" = "Nublado";
 "Tornado" = "Tornado";
-"Hurricane" = "Hurricane";
-"Thunderstorm" = "Thunderstorm";
-"Sandstorm" = "Sandstorm";
+"Hurricane" = "Huracán";
+"Thunderstorm" = "Tormenta";
+"Sandstorm" = "Tormenta de arena";
 
-"Most Common" = "Most Common";
+"Most Common" = "Más común";
 "Extra Hot" = "Extra Hot";
-"Precipitation" = "Precipitation";
-"Clear Night" = "Clear Night";
-"Cloudy Night" = "Cloudy Night";
-"Other" = "Other";
+"Precipitation" = "Precipitación";
+"Clear Night" = "Noche clara";
+"Cloudy Night" = "Noche nublada";
+"Other" = "Otros";
 "Radar" = "Radar";
-"Sunny" = "Sunny";
-"Partly Cloudy" = "Partly Cloudy";
-"Mostly Cloudy" = "Mostly Cloudy";
-"Cloudy" = "Cloudy";
-"Drizzle" = "Drizzle";
-"Light Rain" = "Light Rain";
-"Heavy Rain" = "Heavy Rain";
-"Torrential Downpour" = "Torrential Downpour";
-"Light Snow" = "Light Snow";
-"Snow" = "Snow";
-"Heavy Snow" = "Heavy Snow";
-"Icy" = "Icy";
-"Hail" = "Hail";
-"Sleet" = "Sleet";
-"Windy" = "Windy";
-"Foggy" = "Foggy";
+"Sunny" = "Soleado";
+"Partly Cloudy" = "Parcialmente nublado";
+"Mostly Cloudy" = "Mayormente nublado";
+"Cloudy" = "Nublado";
+"Drizzle" = "Llovizna";
+"Light Rain" = "Lluvia fina";
+"Heavy Rain" = "Chubascos";
+"Torrential Downpour" = "Lluvia torrencial";
+"Light Snow" = "Nieve fina";
+"Snow" = "Nieve";
+"Heavy Snow" = "Fuerte nevada";
+"Icy" = "Helada";
+"Hail" = "Granizo";
+"Sleet" = "Aguanieve";
+"Windy" = "Ventoso";
+"Foggy" = "Brumoso";
 "Tornado" = "Tornado";
-"Hurricane" = "Hurricane";
-"Alert" = "Alert";
-"Not Available" = "Not Available";
+"Hurricane" = "Huracán";
+"Alert" = "Alerta";
+"Not Available" = "No disponible";
 
 // Forecast Detail
 
-"Share..." = "Share...";
-"ShareForecast" = "Share Forecast";
-"ReportADataProblem" = "Report a Data Problem";
+"Share..." = "Compartir...";
+"ShareForecast" = "Compartir pronóstico";
+"ReportADataProblem" = "Informar un problema de datos";
 "AffectedAreas" = "Áreas afectadas";
 "OpenAlertWebsite" = "Open Alert Website";
 "Share" = "Compartir";
 "EmailUs" = "Escríbenos";
 "OpenMail" = "Abrir Correo";
-"EmailUs-Message" = "Please contact us at team@weatherlineapp.com.";
+"EmailUs-Message" = "Ponte en contacto con nosotros en team@weatherlineapp.com.";
 
 // Travel Assist
 
-"Travel Assist" = "Travel Assist";
-"TravelAssistActionTitle" = "\nTravel Assist";
+"Travel Assist" = "Asistente de viaje";
+"TravelAssistActionTitle" = "\nAsistente de viaje";
 "TravelAssistMessage" = "When you travel more than (AAD) away, your home will appear as a separate location. Your home address is only stored on your device."; // ignore (AAD)
-"TravelAssistChooseLocation" = "Choose Home Location";
-"TravelAssistChangeLocation" = "Change Home Location";
-"TravelAssistTurnOff" = "Turn Off";
-"Away" = "Away";
-"Home" = "Home";
+"TravelAssistChooseLocation" = "Selecciona ubicación de casa";
+"TravelAssistChangeLocation" = "Cambiar ubicación de casa";
+"TravelAssistTurnOff" = "Desactivar";
+"Away" = "Fuera";
+"Home" = "Casa";
 
 // Widget
 
-"WidgetNoLocations" = "Add a location to view the forecast.";
-"WidgetError" = "Forecast data not available.";
-"WidgetErrorGraph" = "Forecast data not available.";
+"WidgetNoLocations" = "Añade una ubicación para ver el pronóstico.";
+"WidgetError" = "Pronóstico no disponible.";
+"WidgetErrorGraph" = "Pronóstico no disponible.";
 
 // Subscription
 
