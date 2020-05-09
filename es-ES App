@@ -175,18 +175,18 @@
 "Celsius" = "Celsius";
 "Fahrenheit" = "Fahrenheit";
 "Kelvin" = "Kelvin";
-"Miles Per Hour" = "Miles Per Hour";
-"Kilometers Per Hour" = "Kilometers Per Hour";
-"Meters Per Second" = "Meters Per Second";
-"Knots" = "Knots";
+"Miles Per Hour" = "Millas por hora";
+"Kilometers Per Hour" = "Kilómetros por hora";
+"Meters Per Second" = "Metros por segundo";
+"Knots" = "Nudos";
 "Beaufort" = "Beaufort";
-"Inches" = "Inches";
-"Centimeters" = "Centimeters";
-"Millimeters" = "Millimeters";
-"Inch of Mercury" = "Inch of Mercury";
+"Inches" = "Pulgadas";
+"Centimeters" = "Centímetros";
+"Millimeters" = "Milimetros";
+"Inch of Mercury" = "Pulgada de mercurio";
 "Hectopascal" = "Hectopascal";
-"Millimeter of Mercury" = "Millimeter of Mercury";
-"Millibar" = "Millibar";
+"Millimeter of Mercury" = "Milimetro de mercurio";
+"Millibar" = "Milibar";
 
 // Units - Short Form
 
@@ -224,14 +224,14 @@
 
 // Month Names - Short
 
-"J" = "J";
-"F" = "F";
-"M" = "M";
-"A" = "A";
-"S" = "S";
-"O" = "O";
-"N" = "N";
-"D" = "D";
+"J" = "En.";
+"F" = "Feb.";
+"M" = "Mar.";
+"A" = "Abr.";
+"S" = "Sept.";
+"O" = "Oct.";
+"N" = "Nov.";
+"D" = "Dic.";
 
 // Forecast
 
