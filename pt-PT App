@@ -175,17 +175,17 @@
 "Celsius" = "Celsius";
 "Fahrenheit" = "Fahrenheit";
 "Kelvin" = "Kelvin";
-"Miles Per Hour" = "Miles Per Hour";
-"Kilometers Per Hour" = "Kilometers Per Hour";
-"Meters Per Second" = "Meters Per Second";
-"Knots" = "Knots";
+"Miles Per Hour" = "Milhas por Hora";
+"Kilometers Per Hour" = "Quilómetros por Hora";
+"Meters Per Second" = "Metros por Segundod";
+"Knots" = "Nós";
 "Beaufort" = "Beaufort";
-"Inches" = "Inches";
-"Centimeters" = "Centimeters";
-"Millimeters" = "Millimeters";
-"Inch of Mercury" = "Inch of Mercury";
+"Inches" = "Polegadas";
+"Centimeters" = "Centímetros";
+"Millimeters" = "Milímetros";
+"Inch of Mercury" = "Polegada de Mercúrio";
 "Hectopascal" = "Hectopascal";
-"Millimeter of Mercury" = "Millimeter of Mercury";
+"Millimeter of Mercury" = "Milímetro de Mercúrio";
 "Millibar" = "Millibar";
 
 // Units - Short Form
@@ -209,18 +209,18 @@
 
 // Month Names - Long
 
-"January" = "January";
-"February" = "February";
-"March" = "March";
-"April" = "April";
-"May" = "May";
-"June" = "June";
-"July" = "July";
-"August" = "August";
-"September" = "September";
-"October" = "October";
-"November" = "November";
-"December" = "December";
+"January" = "Janeiro";
+"February" = "Fevereiro";
+"March" = "Março";
+"April" = "Abril";
+"May" = "Maio";
+"June" = "Junho";
+"July" = "Julho";
+"August" = "Agosto";
+"September" = "Setembro";
+"October" = "Outubro";
+"November" = "Novembro";
+"December" = "Dezembro";
 
 // Month Names - Short
 
@@ -267,19 +267,19 @@
 
 // Forecast - Times
 
-"Now" = "Now";
-"Today" = "Today";
-"Average" = "Average";
+"Now" = "Agora";
+"Today" = "Hoje";
+"Average" = "Média";
 
-"Yr" = "Yr";
+"Yr" = "Ano";
 "mins" = "mins"; // as in minutes
 "min" = "min"; // as in minute
-"more" = "more";
-"More" = "More";
-"Weather Alert" = "Weather Alert";
-"Weather Alerts" = "Weather Alerts";
-"Expires" = "Expires";
-"at" = "at";
+"more" = "mais";
+"More" = "Mais";
+"Weather Alert" = "Alerta Metereológico";
+"Weather Alerts" = "Alertas Metereológicos";
+"Expires" = "Caduca";
+"at" = "às";
 "Noon" = "Noon";
 
 // Forecast - Wind directions
@@ -306,16 +306,16 @@
 
 // Forecast - Conditions
 
-"Clear" = "Clear";
-"Rain" = "Rain";
-"Snow" = "Snow";
-"Sleet" = "Sleet";
-"Windy" = "Windy";
-"Fog" = "Fog";
+"Clear" = "Limpo";
+"Rain" = "Chuva";
+"Snow" = "Neve";
+"Sleet" = "Granizo";
+"Windy" = "Ventoso";
+"Fog" = "Nevoeiro";
 "Partly Cloudy" = "Partly Cloudy";
 "Mostly Cloudy" = "Mostly Cloudy";
-"Hail" = "Hail";
-"Icy" = "Icy";
+"Hail" = "Saraivada";
+"Icy" = "Gelo";
 "Cloudy" = "Cloudy";
 "Tornado" = "Tornado";
 "Hurricane" = "Hurricane";
