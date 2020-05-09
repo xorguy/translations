@@ -86,25 +86,25 @@
 "ManageThemeTitle" = "Tema";
 "AppIconTitle" = "Ícone da aplicação";
 "WeatherData" = "Weather Data";
-"WeatherDataTitle" = "Data Source";
+"WeatherDataTitle" = "Fonte dos dados";
 "ManageRadarTitle" = "Radar";
-"MoonPhasesTitle" = "Moon Phases";
-"ManageUnitsTitle" = "Units";
-"ManageTemperatureTitle" = "Temperature Type";
-"Legend" = "Legend";
-"ContactUs" = "Contact Us";
-"RateWeatherLine" = "Rate App";
-"ShareApp" = "Share App";
-"FollowWeatherLine" = "Follow Us";
-"ManageSubscription" = "Manage Subscription";
-"Acknowledgments" = "Acknowledgments";
-"ShowWalkthrough" = "Show App Walkthrough";
+"MoonPhasesTitle" = "Fases da Lua";
+"ManageUnitsTitle" = "Unidades";
+"ManageTemperatureTitle" = "Tipo de Temperatura";
+"Legend" = "Legenda";
+"ContactUs" = "Contacte-nos";
+"RateWeatherLine" = "Classificar Aplicação";
+"ShareApp" = "Partilhar Aplicação";
+"FollowWeatherLine" = "Siga-nos";
+"ManageSubscription" = "Gerir Assinatura";
+"Acknowledgments" = "Agradecimentos";
+"ShowWalkthrough" = "Mostrar Instruções";
 
 // Settings section headers
 
-"Locations" = "Locations";
-"Appearance" = "Appearance";
-"Other" = "Other";
+"Locations" = "Locais";
+"Appearance" = "Aspecto";
+"Other" = "Outro";
 
 // Settings subpages
 
@@ -495,29 +495,29 @@ After the (YEARLYTRIAL) free trial this subscription automatically renews for (P
 After the (YEARLYTRIAL) free trial this subscription automatically renews for (PRICE) per year unless it is canceled at least 24 hours before the end of the trial. Your Apple ID will be charged upon the end of the trial period. You can manage and cancel your subscriptions by going to your account settings in the App Store. Already subscribed? Restore Purchases below or in Settings.
 "; // per year - ignore all in (parentheses)
 
-"Your Apple ID will immediately be charged a one-time payment of (PRICE)." = "Your Apple ID will immediately be charged a one-time payment of (PRICE)."; // ignore (PRICE)
+"Your Apple ID will immediately be charged a one-time payment of (PRICE)." = "Vamos cobrar imediatamento um custo único de (PRICE) ao seu Apple ID."; // ignore (PRICE)
 
 // Legacy subscription
 
-"Limited Time" = "Limited Time";
-"Special Offer" = "Special Offer";
-"Accept Special Offer" = "Accept Special Offer";
-"No Thanks" = "No Thanks";
-"Thanks for your support!" = "Thanks for your support!";
-"50% off" = "50% off";
-"Discounted first year" = "Discounted first year";
-"Then regular annual price" = "Then regular annual price";
-"Then (PRICE) per (PERIOD)" = "Then (PRICE) per (PERIOD)"; // i.e "Then $20.99 per year."
+"Limited Time" = "Tempo Limitado";
+"Special Offer" = "Oferta Especial";
+"Accept Special Offer" = "Aceitar Oferta Especial";
+"No Thanks" = "Não Obrigado";
+"Thanks for your support!" = "Obrigado pelo seu apoio!";
+"50% off" = "50% desconto";
+"Discounted first year" = "Primeiro ano com desconto";
+"Then regular annual price" = "Depois preço anual normal";
+"Then (PRICE) per (PERIOD)" = "Depois (PREÇO) por (PERIODO)"; // i.e "Then $20.99 per year."
 
 // Ads
 
-"Remove Ads" = "Remove Ads";
-"+21 more features" = "+21 more features";
-"Try 7 days free" = "Try 7 days free";
+"Remove Ads" = "Remover Anúncios";
+"+21 more features" = "+21 mais funções";
+"Try 7 days free" = "Experimente 7 dias gratuitamente";
 
 // Special Cases
 
-"From Deepak and Ryan" = "From Deepak and Ryan";
+"From Deepak and Ryan" = "De Deepak e Ryan";
 "Since 2015, we‘ve lost money – every time you check the weather <strong>we pay our data suppliers</strong> and we lacked ongoing income to pay ongoing expenses. We paid for our mistake by using personal savings to stay afloat instead of WL1 shutting down or changing to subscription, while building WL2 into <strong>as big of an upgrade as possible</strong>. We built WL2 for two years to make sure we over-delivered on new features in a worthy upgrade. To see the new features and redeem <strong>a discount for WL1 users</strong>, tap Continue. <discount>Tap “Weather Line 1 User?” on the payment screen to authenticate for a discount</discount>
 " = "Since 2015, we‘ve lost money – every time you check the weather <strong>we pay our data suppliers</strong> and we lacked ongoing income to pay ongoing expenses. We paid for our mistake by using personal savings to stay afloat instead of WL1 shutting down or changing to subscription, while building WL2 into <strong>as big of an upgrade as possible</strong>. We built WL2 for two years to make sure we over-delivered on new features in a worthy upgrade. To see the new features and redeem <strong>a discount for WL1 users</strong>, tap Continue. <discount>Tap “Weather Line 1 User?” on the payment screen to authenticate for a discount</discount>
 "; // ignore all <tags></tags>
