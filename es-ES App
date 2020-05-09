@@ -29,10 +29,10 @@
 "By" = "Por";
 "Of" = "de"; // as in 1 of 3 pages
 
-"Report a Bug" = "Report a Bug";
+"Report a Bug" = "Informar de un error";
 "Report a Data Problem" = "Report a Data Problem";
-"Request a Feature" = "Request a Feature";
-"Ask a Question" = "Ask a Question";
+"Request a Feature" = "Solicitar una característica";
+"Ask a Question" = "Envía una pregunta";
 "Cancel" = "Cancelar";
 
 "Rename" = "Renombrar";
