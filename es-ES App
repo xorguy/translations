@@ -18,10 +18,10 @@
 
 "WeatherLine" = "Weather Line";
 "Settings" = "Ajustes";
-"Done" = "Done";
+"Done" = "Hecho";
 "Cancel" = "Cancelar";
-"On" = "On";
-"Off" = "Off";
+"On" = "Sí";
+"Off" = "No";
 "–" = "–";
 "None" = "Ninguno";
 "Reset" = "Restablecer";
@@ -30,7 +30,7 @@
 "Of" = "de"; // as in 1 of 3 pages
 
 "Report a Bug" = "Informar de un error";
-"Report a Data Problem" = "Report a Data Problem";
+"Report a Data Problem" = "Informar de un problema de datos";
 "Request a Feature" = "Solicitar una característica";
 "Ask a Question" = "Envía una pregunta";
 "Cancel" = "Cancelar";
@@ -59,7 +59,7 @@
 "Month" = "Mes";
 "Months" = "Meses";
 
-"Hourly" = "Hourly";
+"Hourly" = "Cada hora";
 "Daily" = "Diario";
 
 "AddMyLocation" = "Añadir mi ubicación";
@@ -73,32 +73,32 @@
 
 // Settings
 
-"UpgradeToSuperchargeTitle" = "Upgrade to Supercharge";
-"EmptyLocationList-Header" = "No Locations";
-"EmptyLocationList-Message" = "Use the top menu to add a location";
+"UpgradeToSuperchargeTitle" = "Actualiza a Supercharge";
+"EmptyLocationList-Header" = "Sin ubicaciones";
+"EmptyLocationList-Message" = "Usa el menu superior para añadir una ubicación";
 "AddANewLocation" = "Añadir nueva ubicación";
-"DeleteALocation" = "Delete an existing location to add a new one";
+"DeleteALocation" = "Elimina una ubicación existente para añadir una nueva";
 "ManageLocationsTitle" = "Ubicaciones";
 "WidgetTitle" = "Widget";
-"LaunchMode" = "Launch Style";
+"LaunchMode" = "Estilo de inico";
 "ManageAdsTitle" = "Anuncios";
 "ManageAccountTitle" = "Subscripción";
 "ManageThemeTitle" = "Tema";
-"AppIconTitle" = "App Icon";
-"WeatherData" = "Weather Data";
-"WeatherDataTitle" = "Data Source";
+"AppIconTitle" = "Icono de aplicación";
+"WeatherData" = "Datos del tiempo";
+"WeatherDataTitle" = "Origen de datos";
 "ManageRadarTitle" = "Radar";
 "MoonPhasesTitle" = "Fases lunares";
 "ManageUnitsTitle" = "Unidades";
-"ManageTemperatureTitle" = "Temperature Type";
+"ManageTemperatureTitle" = "Tipo de temperatura";
 "Legend" = "Leyenda";
-"ContactUs" = "Contact Us";
-"RateWeatherLine" = "Rate App";
-"ShareApp" = "Compartir App";
+"ContactUs" = "Contáctanos";
+"RateWeatherLine" = "Valorar aplicación";
+"ShareApp" = "Compartir aplicación";
 "FollowWeatherLine" = "Síguenos";
-"ManageSubscription" = "Manage Subscription";
-"Acknowledgments" = "Acknowledgments";
-"ShowWalkthrough" = "Show App Walkthrough";
+"ManageSubscription" = "Administrar subscripción";
+"Acknowledgments" = "Agradecimientos";
+"ShowWalkthrough" = "Mostrar tutorial de la aplicación";
 
 // Settings section headers
 
@@ -127,41 +127,41 @@
 "DarkSkyRadarAvailability" = "Dark Sky short-term precipitation available in US, UK, and Ireland. Animated radar available in US, Canada, UK, Europe, Australia, and Japan.\n";
 "UseDarkSky" = "Use Dark Sky for Forecasting";
 
-"Standard" = "Standard";
-"Muted Standard" = "Muted Standard";
-"Satellite" = "Satellite";
+"Standard" = "Estándar";
+"Muted Standard" = "Estándar silenciado";
+"Satellite" = "Satélite";
 "Hybrid" = "Híbrido";
-"Automatically When Loaded" = "Automatically When Loaded";
+"Automatically When Loaded" = "Automáticamente cuando se inicia";
 "When Tapped" = "When Tapped";
-"Automatically" = "Automatically";
-"All, Hourly" = "All, Hourly";
-"All, Daily" = "All, Daily";
-"Top, Hourly" = "Top, Hourly";
-"Top, Daily" = "Top, Daily";
-"All Locations, Hourly Graph" = "All Locations, Hourly Graph";
-"All Locations, Daily Graph" = "All Locations, Daily Graph";
-"Top Location, Hourly Graph" = "Top Location, Hourly Graph";
-"Top Location, Daily Graph" = "Top Location, Daily Graph";
+"Automatically" = "Automáticamente";
+"All, Hourly" = "Todo, Cada hora";
+"All, Daily" = "Todo, Diario";
+"Top, Hourly" = "Principal, Cada hora";
+"Top, Daily" = "Principal, Diario";
+"All Locations, Hourly Graph" = "Todas las ubicaciones, gráfico cada hora";
+"All Locations, Daily Graph" = "Todas las ubicaciones, gráfico diario";
+"Top Location, Hourly Graph" = "Ubicación principal, gráfico cada hora";
+"Top Location, Daily Graph" = "Ubicación principal, gráfico diario";
 
 "Auto Match to Theme" = "Auto Match to Theme";
-"Update Theme Settings" = "Update Theme Settings";
-"Open Theme Settings" = "Open Theme Settings";
+"Update Theme Settings" = "Actualiza ajustes del tema";
+"Open Theme Settings" = "Abrir ajustes del tema";
 
 "To enable automatically matching your app icon to the theme, first disable (ALERT) in theme settings." =  "To enable automatically matching your app icon to the theme, first disable (ALERT) in theme settings."; // WL-Insert
 
-"Play Animation" = "Play Animation";
-"Map Style" = "Map Style";
+"Play Animation" = "Reproducir animación";
+"Map Style" = "Estilo de mapa";
 "Show Map Pin" = "Show Map Pin";
-"Animation Preview" = "Animation Preview";
+"Animation Preview" = "Vista previa de animación";
 "Preview" = "Vista previa";
 
-"Show Moon Phases" = "Show Moon Phases";
+"Show Moon Phases" = "Mostrar fases lunares";
 
 // Search for Location
 
-"CurrentLocation" = "Current Location";
-"AddLocationSearchBarPlaceholder" = "Search";
-"LocationAccess-NotAuthorizedTitle" = "Not Authorized";
+"CurrentLocation" = "Ubicación actual";
+"AddLocationSearchBarPlaceholder" = "Buscar";
+"LocationAccess-NotAuthorizedTitle" = "Sin autorización";
 "LocationAccess-NotAuthorizedMessage" = "Enable location access to get forecasts for your current location.";
 "LocationAccess-CouldntDetermineTitle" = "Couldn’t Determine Location";
 "LocationAccess-CouldntDetermineMessage" = "Ensure location access is enabled in Settings and try again.";
