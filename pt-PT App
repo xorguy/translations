@@ -143,19 +143,19 @@
 "Top Location, Hourly Graph" = "Top Location, Hourly Graph";
 "Top Location, Daily Graph" = "Top Location, Daily Graph";
 
-"Auto Match to Theme" = "Auto Match to Theme";
-"Update Theme Settings" = "Update Theme Settings";
-"Open Theme Settings" = "Open Theme Settings";
+"Auto Match to Theme" = "Automático de Acordo com Tema";
+"Update Theme Settings" = "Actualizar Preferências do Tema";
+"Open Theme Settings" = "Abrir Preferências do Tema";
 
 "To enable automatically matching your app icon to the theme, first disable (ALERT) in theme settings." =  "To enable automatically matching your app icon to the theme, first disable (ALERT) in theme settings."; // WL-Insert
 
-"Play Animation" = "Play Animation";
-"Map Style" = "Map Style";
-"Show Map Pin" = "Show Map Pin";
-"Animation Preview" = "Animation Preview";
-"Preview" = "Preview";
+"Play Animation" = "Passar Animação";
+"Map Style" = "Estilo do Mapa";
+"Show Map Pin" = "Mostrar Marca no Mapa";
+"Animation Preview" = "Pré-visualizar Animação";
+"Preview" = "Pré-visualizar";
 
-"Show Moon Phases" = "Show Moon Phases";
+"Show Moon Phases" = "Mostrar Fases da Lua";
 
 // Search for Location
 
@@ -519,9 +519,9 @@ After the (YEARLYTRIAL) free trial this subscription automatically renews for (P
 
 "From Deepak and Ryan" = "De Deepak e Ryan";
 "Since 2015, we‘ve lost money – every time you check the weather <strong>we pay our data suppliers</strong> and we lacked ongoing income to pay ongoing expenses. We paid for our mistake by using personal savings to stay afloat instead of WL1 shutting down or changing to subscription, while building WL2 into <strong>as big of an upgrade as possible</strong>. We built WL2 for two years to make sure we over-delivered on new features in a worthy upgrade. To see the new features and redeem <strong>a discount for WL1 users</strong>, tap Continue. <discount>Tap “Weather Line 1 User?” on the payment screen to authenticate for a discount</discount>
-" = "Since 2015, we‘ve lost money – every time you check the weather <strong>we pay our data suppliers</strong> and we lacked ongoing income to pay ongoing expenses. We paid for our mistake by using personal savings to stay afloat instead of WL1 shutting down or changing to subscription, while building WL2 into <strong>as big of an upgrade as possible</strong>. We built WL2 for two years to make sure we over-delivered on new features in a worthy upgrade. To see the new features and redeem <strong>a discount for WL1 users</strong>, tap Continue. <discount>Tap “Weather Line 1 User?” on the payment screen to authenticate for a discount</discount>
+" = "Desde 2015 que perdemos dinheiro - cada vez que consulta a previsão <strong>nós pagamos a que nos fornece os dados</strong> e tínhamos falta de rendimento para pagar as contas. Pagámos o nosso erro com as nossas poupanças, para continuar a funcionar, em vez de fechar o WL1, ou mudar o modelo de assinaturas, enquanto desenvolvíamos o WL2 como <strong>uma actualização tão grande como possível</strong>. Desenvolvemos o WL2 com um número enorme de funcionalidades, para ser uma actualização que valesse a pena. Para ver as novas funcionalidades e aproveitar o <strong>desconto para utilizadores de WL1</strong>, carregue em Continuar. <discount>Carregue em "Utilizador WL1?" no ecrã de pagamento para se autenticar e ter direito ao desconto</discount>
 "; // ignore all <tags></tags>
 
-"Weather Line is made by Ryan Jones and Deepak Mantena in Austin, TX and Portland, OR. \n\nMany thanks to Kevin Clark, Brad Ellis, Mircea Grelus, Oz Michaeli, and our lovely and tireless beta testers." = "Weather Line is made by Ryan Jones and Deepak Mantena in Austin, TX and Portland, OR. \n\nMany thanks to Kevin Clark, Brad Ellis, Mircea Grelus, Oz Michaeli, and our lovely and tireless beta testers.";
-"Terms of Use" = "Terms of Use";
-"Privacy Policy" = "Privacy Policy";
+"Weather Line is made by Ryan Jones and Deepak Mantena in Austin, TX and Portland, OR. \n\nMany thanks to Kevin Clark, Brad Ellis, Mircea Grelus, Oz Michaeli, and our lovely and tireless beta testers." = "Weather Line é feito por Ryan Jones e Deepak Mantena em Austin, Texas e Portland, Oregon. \n\nMuito obrigado a Kevin Clark, Brad Ellis, Mircea Grelus, Oz Michaeli, e aos nossos queridos e incansáveis beta testers.";
+"Terms of Use" = "Termos de Uso";
+"Privacy Policy" = "Política de Privacidade";
