@@ -112,16 +112,16 @@
 
 "LaunchModeHelpText" = "Fresh launches of the app will open to this screen.";
 "WidgetHelpText" = "Turn on to automatically match app's theme. Leave off to use standard translucent widget background. (SC) required for graph and themes.";
-"MoonPhaseHelpText" = "(SC) required for moon data.\n";
-"AnimatedRadarHelpText" = "(SC) required for animation.\n";
-"AdsHelpText" = "(SC) required to remove ads.\n";
+"MoonPhaseHelpText" = "(SC) necesario para datos lunares.\n";
+"AnimatedRadarHelpText" = "(SC) necesario para animaciones.\n";
+"AdsHelpText" = "(SC) necesario para desactivar anuncios.\n";
 "ThemesHelpText" = "(SC) required for themes other than Light and Dark.\n";
 "GraphTemperatureHelpText" = "Choose which temperature to graph. The other will be displayed below the graph.\n";
-"BasicWeatherHeader" = "Basic";
+"BasicWeatherHeader" = "Básico";
 "BasicWeatherSubtitle" = "Standard NOAA 7-day forecast";
-"SuperForecastHeader" = "Super Forecast";
+"SuperForecastHeader" = "Super Pronóstico";
 "SuperForecastSubtitle" = "Best of everything 10-day forecast";
-"Forecasting" = "Forecasting";
+"Forecasting" = "Previsión";
 "SuperForecastDetailHeader" = "Welcome to the future of weather";
 "SuperForecastDetailText" = "The world’s #1 provider of each forecast type – combined into one view. You get the best of everything.";
 "DarkSkyRadarAvailability" = "Dark Sky short-term precipitation available in US, UK, and Ireland. Animated radar available in US, Canada, UK, Europe, Australia, and Japan.\n";
@@ -151,7 +151,7 @@
 
 "Play Animation" = "Reproducir animación";
 "Map Style" = "Estilo de mapa";
-"Show Map Pin" = "Show Map Pin";
+"Show Map Pin" = "Mostrar pin en el mapa";
 "Animation Preview" = "Vista previa de animación";
 "Preview" = "Vista previa";
 
