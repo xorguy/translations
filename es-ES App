@@ -366,7 +366,7 @@
 
 "Travel Assist" = "Asistente de viaje";
 "TravelAssistActionTitle" = "\nAsistente de viaje";
-"TravelAssistMessage" = "When you travel more than (AAD) away, your home will appear as a separate location. Your home address is only stored on your device."; // ignore (AAD)
+"TravelAssistMessage" = "Cuando te desplazas a más de (AAD), tu casa aparecerá como una ubicación separada. La dirección de tu casa está almacenada sólo en tu dispositivo."; // ignore (AAD)
 "TravelAssistChooseLocation" = "Selecciona ubicación de casa";
 "TravelAssistChangeLocation" = "Cambiar ubicación de casa";
 "TravelAssistTurnOff" = "Desactivar";
@@ -396,17 +396,17 @@
 "Subscription-SuccessTitle" = "(SC) Desbloqueado"; // ignore (SC)
 "Subscription-SuccessMessage" = "All features have been unlocked and ads have been turned off.";
 "Subscription-NoPreviousPurchasesTitle" = "Restaurar compras";
-"Subscription-NoPreviousPurchasesMessage" = "Compras anteriores no encontradas.";
-"Subscription-LegacyCheckTitle" = "Verification Required";
+"Subscription-NoPreviousPurchasesMessage" = "No se han encontrado compras anteriores.";
+"Subscription-LegacyCheckTitle" = "Se requiere verificación";
 "Subscription-LegacyCheckMessage" = "You may be asked to login with your Apple ID to confirm you were a Weather Line 1 user.";
 
 "Subscription-LegacyFailureTitle" = "No disponible";
-"Subscription-LegacyFailureWL1Message" = "It appears that you were not a Weather Line 1 user.\n\nIf you believe this is an error, please try again or contact us.";
-"Subscription-LegacyFailureIntroMessage" = "It appears that you have previously subscribed to Weather Line 2.\n\nIf you believe this is an error, please try again or contact us.";
+"Subscription-LegacyFailureWL1Message" = "Parece que no eres usuario de Weather Line 1.\n\Si crees que se trata de un error, por favor inténtalo otra vez o ponte en contacto con nosotros.";
+"Subscription-LegacyFailureIntroMessage" = "Parece que ya has estado suscrito a Weather Line 2.\n\nSi crees que se trata de un error, por favor inténtalo otra vez o ponte en contacto con nosotros.";
 "Subscription-LegacyFailureGeneralMessage" = "It appears that you were not a Weather Line 1 user or have previously subscribed to Weather Line 2.\n\nIf you believe this is an error, please try again or contact us.";
 
 "Subscription-ExpirationTitle" = " Subscripción caducada";
-"Subscription-ExpirationMessage" = "It appears that your (SC) subscription has expired. To unlock all features and remove ads, subscribe again at any time."; // ignore (SC)
+"Subscription-ExpirationMessage" = "Parece que tu suscripción (SC) ha caducado. Para desbloquear todas las características y eliminar los anuncios suscríbete en cualquier momento."; // ignore (SC)
 
 "ManageSubscriptionPlan-Lifetime" = "(SC) (De por vida)"; // just localize Lifetime
 "ManageSubscriptionPlan-Free" = "No (SC)"; // just localize Not
@@ -418,23 +418,23 @@
 
 // Sharing Forecasts
 
-"shareTitle-forecastCard" = "Forecard Card";
-"shareTitle-entireForecast" = "Entire Card";
-"shareTitle-forecastGraph" = "Forecast Graph";
-"shareTitle-forecastDetails" = "Forecast Details";
-"shareTitle-precipitation" = "Precipitation";
+"shareTitle-forecastCard" = "Tarjeta de pronóstico";
+"shareTitle-entireForecast" = "Tarjeta entera";
+"shareTitle-forecastGraph" = "Gráfico de pronóstico";
+"shareTitle-forecastDetails" = "Detalles de pronóstico";
+"shareTitle-precipitation" = "Precipitación";
 "shareTitle-radar" = "Radar";
-"shareTitle-historicalGraph" = "Monthly Averages Graph";
-"shareTitle-historicalDetails" = "Monthly Averages Details";
+"shareTitle-historicalGraph" = "Gráfico promedios mensuales";
+"shareTitle-historicalDetails" = "Detalles promedios mensuales";
 
 // Onboarding
 
-"Let’s go" = "Let’s go";
+"Let’s go" = "Empecemos";
 "Next" = "Siguiente";
 "Industry First" = "Industry First";
 "Weather Line 1 User?" = "¿Usuario de Weather Line 1?";
-"All-new design, themes, and more..." = "All-new design, themes, and more...";
-"Our innovative weather line" = "Our innovative weather line";
+"All-new design, themes, and more..." = "Diseño renovado, temas y más...";
+"Our innovative weather line" = "Nuestro innovador weather line";
 "Turned up to 100°" = "Turned up to 100°";
 "For your home weather" = "For your home weather";
 "Travel Assist automatically manages displaying your home weather while you travel." = "Travel Assist automatically manages displaying your home weather while you travel.";
@@ -463,7 +463,7 @@
 "Add Moon Phases" = "Añade fases lunares";
 "Add Widget Graph" = "Añade gráfico al Widget";
 "Free Trial" = "Prueba gratis";
-"Save (PERCENTAGE) Now" = "Ahorra un (PERCENTAGE) ahora";
+"Save (PERCENTAGE) Now" = "Ahorra ahora un (PERCENTAGE)";
 
 // Onboarding - Subscription Terms
 
