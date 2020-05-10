@@ -386,19 +386,19 @@
 "SuperForecast" = "Super Forecast";
 "Super Forecast" = "Super Forecast";
 "SuperForecast-LegacyProvider" = "Super Forecast Legacy";
-"Free" = "Free";
+"Free" = "Gratuito";
 
-"Subscription-CantMakePurchasesTitle" = "Compras ko permitidas";
-"Subscription-CantMakePurchasesMessage" = "This device is not authorized to make purchases. Sign into the App Store with an authorized account and try again.";
-"Subscription-PurchaseFailedTitle" = "Purchase Failed";
-"Subscription-PurchaseFailedMessage" = "Unable to complete your purchase. Please try again. ((ERR))"; // localize up to ((ERR))
-"Subscription-PurchaseFailedGenericMessage" = "Unable to complete your purchase. Please try again.";
+"Subscription-CantMakePurchasesTitle" = "Compras no permitidas";
+"Subscription-CantMakePurchasesMessage" = "Este dispositivo no está autorizado a realizar compras. Inicia sesión en la App Store con una cuenta autorizada y vuelve a intentarlo.";
+"Subscription-PurchaseFailedTitle" = "Compra fallida";
+"Subscription-PurchaseFailedMessage" = "No se ha podido completar la compra. Por favor, inténtalo de nuevo. ((ERR))"; // localize up to ((ERR))
+"Subscription-PurchaseFailedGenericMessage" = "No se ha podido completar la compra. Por favor, inténtalo de nuevo.";
 "Subscription-SuccessTitle" = "(SC) Desbloqueado"; // ignore (SC)
-"Subscription-SuccessMessage" = "All features have been unlocked and ads have been turned off.";
+"Subscription-SuccessMessage" = "Se han desbloqueado todas las características y los anuncios se han desactivado.";
 "Subscription-NoPreviousPurchasesTitle" = "Restaurar compras";
 "Subscription-NoPreviousPurchasesMessage" = "No se han encontrado compras anteriores.";
 "Subscription-LegacyCheckTitle" = "Se requiere verificación";
-"Subscription-LegacyCheckMessage" = "You may be asked to login with your Apple ID to confirm you were a Weather Line 1 user.";
+"Subscription-LegacyCheckMessage" = "Puede ser necesario que inicies sesión con tu Apple ID para confirmar que eras usuarios de Weather Line 1.";
 
 "Subscription-LegacyFailureTitle" = "No disponible";
 "Subscription-LegacyFailureWL1Message" = "Parece que no eres usuario de Weather Line 1.\n\Si crees que se trata de un error, por favor inténtalo otra vez o ponte en contacto con nosotros.";
