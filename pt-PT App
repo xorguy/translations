@@ -159,16 +159,16 @@
 
 // Search for Location
 
-"CurrentLocation" = "Current Location";
-"AddLocationSearchBarPlaceholder" = "Search";
-"LocationAccess-NotAuthorizedTitle" = "Not Authorized";
-"LocationAccess-NotAuthorizedMessage" = "Enable location access to get forecasts for your current location.";
-"LocationAccess-CouldntDetermineTitle" = "Couldn’t Determine Location";
-"LocationAccess-CouldntDetermineMessage" = "Ensure location access is enabled in Settings and try again.";
-"Automatic" = "Automatic";
-"Saved" = "Saved";
-"AddLocationSearchMessage" = "Enter street address, city, zip code, or airport.";
-"AddLocationListLocationMessage" = "Where on your saved list should new locations be added?";
+"CurrentLocation" = "Localização Actual";
+"AddLocationSearchBarPlaceholder" = "Procura";
+"LocationAccess-NotAuthorizedTitle" = "Não Autorizado";
+"LocationAccess-NotAuthorizedMessage" = "Permita acesso à localização para ver previsões para a sua localização actual.";
+"LocationAccess-CouldntDetermineTitle" = "Não foi possível determinar localização";
+"LocationAccess-CouldntDetermineMessage" = "Garanta acesso à localização nas Preferências, e tente de novo.";
+"Automatic" = "Automático";
+"Saved" = "Guardado";
+"AddLocationSearchMessage" = "Insira morada, cidade, código postal, ou aeroporto.";
+"AddLocationListLocationMessage" = "Em que lista quer guardar os novos locais?";
 
 // Units - Long Form
 
@@ -512,7 +512,7 @@ After the (YEARLYTRIAL) free trial this subscription automatically renews for (P
 // Ads
 
 "Remove Ads" = "Remover Anúncios";
-"+21 more features" = "+21 mais funções";
+"+21 more features" = "Mais de 21 funções novas";
 "Try 7 days free" = "Experimente 7 dias gratuitamente";
 
 // Special Cases
