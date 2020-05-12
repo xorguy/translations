@@ -364,6 +364,7 @@
 
 // Travel Assist
 
+"TravelAssistTitle" = "Travel Assist";
 "Travel Assist" = "Travel Assist";
 "TravelAssistActionTitle" = "\nTravel Assist";
 "TravelAssistMessage" = "When you travel more than (AAD) away, your home will appear as a separate location. Your home address is only stored on your device."; // ignore (AAD)
