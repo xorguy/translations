@@ -116,7 +116,7 @@
 "AnimatedRadarHelpText" = "(SC) necesario para animaciones.\n";
 "AdsHelpText" = "(SC) necesario para desactivar anuncios.\n";
 "ThemesHelpText" = "(SC) necesario para temas distintos a claro y oscuro.\n";
-"GraphTemperatureHelpText" = "Escoge que temperatura dibujar en el gráfico. La otra se mostrará debajo del gráfico.\n";
+"GraphTemperatureHelpText" = "Escoge que temperatura mostrar en el gráfico. La otra se mostrará debajo.\n";
 "BasicWeatherHeader" = "Básico";
 "BasicWeatherSubtitle" = "Previsión estándar de NOAA de 7 días";
 "SuperForecastHeader" = "Súper Pronóstico";
