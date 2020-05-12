@@ -31,7 +31,7 @@
 
 "Report a Bug" = "Informar de un error";
 "Report a Data Problem" = "Informar de un problema de datos";
-"Request a Feature" = "Solicitar una característica";
+"Request a Feature" = "Solicitar una funcionalidad";
 "Ask a Question" = "Envía una pregunta";
 "Cancel" = "Cancelar";
 
@@ -75,14 +75,14 @@
 
 "UpgradeToSuperchargeTitle" = "Actualiza a Supercharge";
 "EmptyLocationList-Header" = "Sin ubicaciones";
-"EmptyLocationList-Message" = "Usa el menu superior para añadir una ubicación";
+"EmptyLocationList-Message" = "Usa el menú superior para añadir una ubicación";
 "AddANewLocation" = "Añadir nueva ubicación";
 "DeleteALocation" = "Elimina una ubicación existente para añadir una nueva";
 "ManageLocationsTitle" = "Ubicaciones";
 "WidgetTitle" = "Widget";
-"LaunchMode" = "Estilo de inico";
+"LaunchMode" = "Estilo de inicio";
 "ManageAdsTitle" = "Anuncios";
-"ManageAccountTitle" = "Subscripción";
+"ManageAccountTitle" = "Suscripción";
 "ManageThemeTitle" = "Tema";
 "AppIconTitle" = "Icono de aplicación";
 "WeatherData" = "Datos del tiempo";
@@ -96,7 +96,7 @@
 "RateWeatherLine" = "Valorar aplicación";
 "ShareApp" = "Compartir aplicación";
 "FollowWeatherLine" = "Síguenos";
-"ManageSubscription" = "Administrar subscripción";
+"ManageSubscription" = "Administrar suscripción";
 "Acknowledgments" = "Agradecimientos";
 "ShowWalkthrough" = "Mostrar tutorial de la aplicación";
 
@@ -108,31 +108,31 @@
 
 // Settings subpages
 
-"Open-Source Components" = "Open-Source Components";
+"Open-Source Components" = "Componentes de código abierto";
 
-"LaunchModeHelpText" = "Fresh launches of the app will open to this screen.";
-"WidgetHelpText" = "Turn on to automatically match app's theme. Leave off to use standard translucent widget background. (SC) required for graph and themes.";
+"LaunchModeHelpText" = "Se mostrará esta pantalla en nuevos inicios de la aplicación.";
+"WidgetHelpText" = "Actívalo para ajustar automáticamente al tema de la aplicación. Desactivado para usar el fondo translucido del widget. (SC) necesario para gráficos y temas.";
 "MoonPhaseHelpText" = "(SC) necesario para datos lunares.\n";
 "AnimatedRadarHelpText" = "(SC) necesario para animaciones.\n";
 "AdsHelpText" = "(SC) necesario para desactivar anuncios.\n";
-"ThemesHelpText" = "(SC) required for themes other than Light and Dark.\n";
-"GraphTemperatureHelpText" = "Choose which temperature to graph. The other will be displayed below the graph.\n";
+"ThemesHelpText" = "(SC) necesario para temas distintos a claro y oscuro.\n";
+"GraphTemperatureHelpText" = "Escoge que temperatura dibujar en el gráfico. La otra se mostrará debajo del gráfico.\n";
 "BasicWeatherHeader" = "Básico";
-"BasicWeatherSubtitle" = "Standard NOAA 7-day forecast";
-"SuperForecastHeader" = "Super Pronóstico";
-"SuperForecastSubtitle" = "Best of everything 10-day forecast";
-"Forecasting" = "Previsión";
-"SuperForecastDetailHeader" = "Welcome to the future of weather";
-"SuperForecastDetailText" = "The world’s #1 provider of each forecast type – combined into one view. You get the best of everything.";
-"DarkSkyRadarAvailability" = "Dark Sky short-term precipitation available in US, UK, and Ireland. Animated radar available in US, Canada, UK, Europe, Australia, and Japan.\n";
-"UseDarkSky" = "Use Dark Sky for Forecasting";
+"BasicWeatherSubtitle" = "Previsión estándar de NOAA de 7 días";
+"SuperForecastHeader" = "Súper Pronóstico";
+"SuperForecastSubtitle" = "El mejor pronóstico para los próximos 10 días";
+"Forecasting" = "Pronóstico";
+"SuperForecastDetailHeader" = "Bienvenido al futuro del tiempo";
+"SuperForecastDetailText" = "El proveedor #1 para cada tipo de previsión – combinados en una única vista. Obtienes lo mejor de todo.";
+"DarkSkyRadarAvailability" = "Precipitación a corto plazo de Dark Sky disponible en EEUU, Reino Unido e Irlanda. Animación de radar disponible en EEUU, Canada, Reino Unido, Europa, Australia y Japón.\n";
+"UseDarkSky" = "Usar Dark Sky para pronóstico";
 
 "Standard" = "Estándar";
 "Muted Standard" = "Estándar silenciado";
 "Satellite" = "Satélite";
 "Hybrid" = "Híbrido";
 "Automatically When Loaded" = "Automáticamente cuando se inicia";
-"When Tapped" = "When Tapped";
+"When Tapped" = "Cuando se toque";
 "Automatically" = "Automáticamente";
 "All, Hourly" = "Todo, Cada hora";
 "All, Daily" = "Todo, Diario";
@@ -143,11 +143,11 @@
 "Top Location, Hourly Graph" = "Ubicación principal, gráfico cada hora";
 "Top Location, Daily Graph" = "Ubicación principal, gráfico diario";
 
-"Auto Match to Theme" = "Auto Match to Theme";
+"Auto Match to Theme" = "Igualar al tema";
 "Update Theme Settings" = "Actualiza ajustes del tema";
 "Open Theme Settings" = "Abrir ajustes del tema";
 
-"To enable automatically matching your app icon to the theme, first disable (ALERT) in theme settings." =  "To enable automatically matching your app icon to the theme, first disable (ALERT) in theme settings."; // WL-Insert
+"To enable automatically matching your app icon to the theme, first disable (ALERT) in theme settings." =  "Para actualizar automáticamente el icono de la aplicación con el tema, primero desactiva (ALERT) en los ajustes del tema."; // WL-Insert
 
 "Play Animation" = "Reproducir animación";
 "Map Style" = "Estilo de mapa";
@@ -162,7 +162,7 @@
 "CurrentLocation" = "Ubicación actual";
 "AddLocationSearchBarPlaceholder" = "Buscar";
 "LocationAccess-NotAuthorizedTitle" = "Sin autorización";
-"LocationAccess-NotAuthorizedMessage" = "Enable location access to get forecasts for your current location.";
+"LocationAccess-NotAuthorizedMessage" = "Habilita el acceso a la ubicación para obtener previsiones en tu ubicación actual.";
 "LocationAccess-CouldntDetermineTitle" = "No se pudo determinar la ubicación";
 "LocationAccess-CouldntDetermineMessage" = "Asegúrate que el acceso a la ubicación esté habilitado en los ajustes y prueba de nuevo.";
 "Automatic" = "Automático";
@@ -182,10 +182,10 @@
 "Beaufort" = "Beaufort";
 "Inches" = "Pulgadas";
 "Centimeters" = "Centímetros";
-"Millimeters" = "Milimetros";
+"Millimeters" = "Milímetros";
 "Inch of Mercury" = "Pulgada de mercurio";
 "Hectopascal" = "Hectopascal";
-"Millimeter of Mercury" = "Milimetro de mercurio";
+"Millimeter of Mercury" = "Milímetro de mercurio";
 "Millibar" = "Milibar";
 
 // Units - Short Form
@@ -240,8 +240,8 @@
 "Gust" = "Ráfaga";
 "Radar" = "Radar";
 "MonthlyAverages" = "Promedios mensuales";
-"FeelsLike" = "Feels Like";
-"Feels Like" = "Feels Like";
+"FeelsLike" = "Sensación térmica";
+"Feels Like" = "Sensación térmica";
 "Actual" = "Actual";
 "ActualTemp" = "Temperatura actual";
 "Precipitation" = "Precipitación";
@@ -253,7 +253,7 @@
 "Sunset" = "Puesta de sol";
 "Wind" = "Viento";
 "UVIndex" = "Índice UV";
-"CloudCover" = "Cloud Cover";
+"CloudCover" = "Cubierto de nubes";
 "AvgHigh" = "Promedio alto";
 "AvgLow" = "Promedio bajo";
 "MonthlyRain" = "Lluvia mensual";
@@ -356,7 +356,7 @@
 "ShareForecast" = "Compartir pronóstico";
 "ReportADataProblem" = "Informar un problema de datos";
 "AffectedAreas" = "Áreas afectadas";
-"OpenAlertWebsite" = "Open Alert Website";
+"OpenAlertWebsite" = "Abrir página Open Alert";
 "Share" = "Compartir";
 "EmailUs" = "Escríbenos";
 "OpenMail" = "Abrir Correo";
@@ -394,7 +394,7 @@
 "Subscription-PurchaseFailedMessage" = "No se ha podido completar la compra. Por favor, inténtalo de nuevo. ((ERR))"; // localize up to ((ERR))
 "Subscription-PurchaseFailedGenericMessage" = "No se ha podido completar la compra. Por favor, inténtalo de nuevo.";
 "Subscription-SuccessTitle" = "(SC) Desbloqueado"; // ignore (SC)
-"Subscription-SuccessMessage" = "Se han desbloqueado todas las características y los anuncios se han desactivado.";
+"Subscription-SuccessMessage" = "Se han desbloqueado todas las funcionalidades y los anuncios se han desactivado.";
 "Subscription-NoPreviousPurchasesTitle" = "Restaurar compras";
 "Subscription-NoPreviousPurchasesMessage" = "No se han encontrado compras anteriores.";
 "Subscription-LegacyCheckTitle" = "Se requiere verificación";
@@ -403,10 +403,10 @@
 "Subscription-LegacyFailureTitle" = "No disponible";
 "Subscription-LegacyFailureWL1Message" = "Parece que no eres usuario de Weather Line 1.\n\Si crees que se trata de un error, por favor inténtalo otra vez o ponte en contacto con nosotros.";
 "Subscription-LegacyFailureIntroMessage" = "Parece que ya has estado suscrito a Weather Line 2.\n\nSi crees que se trata de un error, por favor inténtalo otra vez o ponte en contacto con nosotros.";
-"Subscription-LegacyFailureGeneralMessage" = "It appears that you were not a Weather Line 1 user or have previously subscribed to Weather Line 2.\n\nIf you believe this is an error, please try again or contact us.";
+"Subscription-LegacyFailureGeneralMessage" = "Parece que no has sido usuario de Weather Line 1 o has estado suscrito a Weather Line 2.\n\nSi crees que se trata de un error, por favor inténtalo otra vez o ponte en contacto con nosotros.";
 
-"Subscription-ExpirationTitle" = " Subscripción caducada";
-"Subscription-ExpirationMessage" = "Parece que tu suscripción (SC) ha caducado. Para desbloquear todas las características y eliminar los anuncios suscríbete en cualquier momento."; // ignore (SC)
+"Subscription-ExpirationTitle" = " Suscripción caducada";
+"Subscription-ExpirationMessage" = "Parece que tu suscripción (SC) ha caducado. Para desbloquear todas las funcionalidades y desactivar los anuncios suscríbete en cualquier momento."; // ignore (SC)
 
 "ManageSubscriptionPlan-Lifetime" = "(SC) (De por vida)"; // just localize Lifetime
 "ManageSubscriptionPlan-Free" = "No (SC)"; // just localize Not
@@ -470,9 +470,9 @@
 "✓ No Commitment   ✓ Cancel Anytime
 
 After the free trial this subscription automatically renews at monthly or annual price. If you choose to purchase, payment will not be charged to your iTunes account until 24-hours before the end of the current period. Auto-renewal may be turned off at any time in Settings. Already subscribed? Restore Purchases below or in Settings.
-" = "✓ No Commitment   ✓ Cancel Anytime
+" = "✓ Sin compromiso   ✓ Cancela en cualquier momento
 
-After the free trial this subscription automatically renews at monthly or annual price. If you choose to purchase, payment will not be charged to your iTunes account until 24-hours before the end of the current period. Auto-renewal may be turned off at any time in Settings. Already subscribed? Restore Purchases below or in Settings.
+Después del periodo de prueba esta suscripción se renovará automáticamente al precio mensual o anual. Si la compras, el pago no se cargará en tu cuenta iTunes hasta 24 horas antes del fin del periodo actual. La renovación automática puede desactivarse en cualquier momento en los ajustes. ¿Ya suscrito? Restaura las compras debajo o en los ajustes.
 ";
 
 "
@@ -480,7 +480,7 @@ After the free trial this subscription automatically renews at monthly or annual
 
 After the (MONTHLYTRIAL) free trial this subscription automatically renews for (PRICE) per month unless it is canceled at least 24 hours before the end of the trial. Your Apple ID will be charged upon the end of the trial period. You can manage and cancel your subscriptions by going to your account settings in the App Store. Already subscribed? Restore Purchases below or in Settings.
 " = "
-✓ No Commitment   ✓ Cancel Anytime
+✓ Sin compromiso   ✓ Cancela en cualquier momento
 
 After the (MONTHLYTRIAL) free trial this subscription automatically renews for (PRICE) per month unless it is canceled at least 24 hours before the end of the trial. Your Apple ID will be charged upon the end of the trial period. You can manage and cancel your subscriptions by going to your account settings in the App Store. Already subscribed? Restore Purchases below or in Settings.
 "; // per month - ignore all in (parentheses)
@@ -490,7 +490,7 @@ After the (MONTHLYTRIAL) free trial this subscription automatically renews for (
 
 After the (YEARLYTRIAL) free trial this subscription automatically renews for (PRICE) per year unless it is canceled at least 24 hours before the end of the trial. Your Apple ID will be charged upon the end of the trial period. You can manage and cancel your subscriptions by going to your account settings in the App Store. Already subscribed? Restore Purchases below or in Settings.
 " = "
-✓ No Commitment   ✓ Cancel Anytime
+✓ Sin compromiso   ✓ Cancela en cualquier momento
 
 After the (YEARLYTRIAL) free trial this subscription automatically renews for (PRICE) per year unless it is canceled at least 24 hours before the end of the trial. Your Apple ID will be charged upon the end of the trial period. You can manage and cancel your subscriptions by going to your account settings in the App Store. Already subscribed? Restore Purchases below or in Settings.
 "; // per year - ignore all in (parentheses)
@@ -507,12 +507,12 @@ After the (YEARLYTRIAL) free trial this subscription automatically renews for (P
 "50% off" = "50% de decuento";
 "Discounted first year" = "Descuento en el primer año";
 "Then regular annual price" = "Después precio anual normal";
-"Then (PRICE) per (PERIOD)" = "Despues (PRICE) por (PERIOD)"; // i.e "Then $20.99 per year."
+"Then (PRICE) per (PERIOD)" = "Después (PRICE) por (PERIOD)"; // i.e "Then $20.99 per year."
 
 // Ads
 
-"Remove Ads" = "Eliminar auncios";
-"+21 more features" = "+21 características";
+"Remove Ads" = "Desactivar anuncios";
+"+21 more features" = "+21 funcionalidades";
 "Try 7 days free" = "Prueba 7 días gratis";
 
 // Special Cases
